@@ -1,12 +1,12 @@
 ---
-title: Acknowledgements
+title: Sponsors
 layout:  null
 tab: true
 order: 4
 tags: juiceshop
 ---
 
-## Acknowledgements
+## Sponsors
 
 see
 <https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Acknowledgements>
