@@ -1,14 +1,7 @@
-### Releases
-* 29.08.19: juice-shop [`v9.0.1`](https://github.com/bkimminich/juice-shop/releases/tag/v9.0.1)
-* 26.08.19: juice-shop [`v9.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v9.0.0)
-* 05.08.19: juice-shop [`v8.7.3`](https://github.com/bkimminich/juice-shop/releases/tag/v8.7.3)
-* 17.06.19: juice-shop-ctf [`v6.1.1`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v6.1.1)
-* 13.06.19: juice-shop [`v8.7.2`](https://github.com/bkimminich/juice-shop/releases/tag/v8.7.2)
-
 ### Installation
-* [Packaged Distributions](https://github.com/bkimminich/juice-shop/releases/latest)
+* [From Source](https://github.com/bkimminich/juice-shop#from-sources)
+* Packaged ([GitHub](https://github.com/bkimminich/juice-shop/releases/)/[SourceForge](https://sourceforge.net/projects/juice-shop/files/))
 * [Docker Image](https://registry.hub.docker.com/u/bkimminich/juice-shop/)
-* [Online Demo](https://juice-shop.herokuapp.com/)
 
 ### Sources
 * [GitHub](https://github.com/bkimminich/juice-shop)
@@ -16,14 +9,13 @@
 * [Crowdin I18N](https://crowdin.com/project/owasp-juice-shop)
 
 ### Documentation
+* [Online Demo](https://juice-shop.herokuapp.com/)
 * [Introduction Slides](http://bkimminich.github.io/juice-shop)
 * Companion Guide ([LeanPub](https://leanpub.com/juice-shop)/[GitBook](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content))
 
-### Support
+### Community
 * [Gitter Chat](https://gitter.im/bkimminich/juice-shop)
 * [Subreddit](https://www.reddit.com/r/owasp_juiceshop)
-
-### Collaboration
 * [Slack Channel](https://owasp.slack.com/messages/project-juiceshop)
 * [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/juice-shop-project)
 
