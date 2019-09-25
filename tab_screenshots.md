@@ -4,7 +4,7 @@ layout:  null
 tab: true
 order: 2
 tags: juiceshop
-------------
+---
 
 ![Screenshot 1](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot01.png)
 ![Screenshot 2](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot02.png)
