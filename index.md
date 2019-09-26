@@ -6,8 +6,10 @@ level: 4
 ---
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/develop/frontend/src/assets/public/images/JuiceShop_Logo_100px.png)
+
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
 [![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/bkimminich/juice-shop.svg?label=GitHub%20%E2%98%85&style=flat)](https://github.com/bkimminich/juice-shop/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/owasp_juiceshop.svg?style=social&label=Follow)](https://twitter.com/owasp_juiceshop)
 
 OWASP Juice Shop is probably the most modern and sophisticated insecure
@@ -41,6 +43,8 @@ the project name. That the initials "JS" match with those of
 "JavaScript" was purely coincidental!_
 
 ## Licensing
+
+[![license](https://img.shields.io/github/license/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/blob/master/LICENSE)
 
 This program is free software: You can redistribute it and/or modify it
 under the terms of the

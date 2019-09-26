@@ -8,6 +8,10 @@ tags: juiceshop
 
 ## Latest Releases
 
+[![GitHub release](https://img.shields.io/github/downloads/bkimminich/juice-shop/total.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
+[![SourceForge](https://img.shields.io/sourceforge/dt/juice-shop.svg)](https://sourceforge.net/projects/juice-shop/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop/)
+
 * 29.08.19: juice-shop
   [`v9.0.1`](https://github.com/bkimminich/juice-shop/releases/tag/v9.0.1)
 * 26.08.19: juice-shop
