@@ -8,7 +8,6 @@ tags: juiceshop
 
 ## Roadmap
 
-see
-<https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Road_Map_and_Getting_Involved>
-
-
+* Challenges in the pristine [features added during GSoC 2019](https://agrawalarpit14.github.io/GSoC/)
+* More [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440) scripts for the easier challenges
+* Decouple [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440) better from frontend code
