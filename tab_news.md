@@ -18,3 +18,9 @@ tags: juiceshop
   [`v6.1.1`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v6.1.1)
 * 13.06.19: juice-shop
   [`v8.7.2`](https://github.com/bkimminich/juice-shop/releases/tag/v8.7.2)
+
+## Roadmap
+
+* Challenges in the pristine [features added during GSoC 2019](https://agrawalarpit14.github.io/GSoC/)
+* More [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440) scripts for the easier challenges
+* Decouple [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440) better from frontend code
