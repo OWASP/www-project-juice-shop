@@ -8,6 +8,7 @@ tags: juiceshop
 
 ## Latest Releases
 
+[![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
 [![GitHub release](https://img.shields.io/github/downloads/bkimminich/juice-shop/total.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
 [![SourceForge](https://img.shields.io/sourceforge/dt/juice-shop.svg)](https://sourceforge.net/projects/juice-shop/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop/)
@@ -25,6 +26,14 @@ tags: juiceshop
 
 ## Roadmap
 
-* Challenges in the pristine [features added during GSoC 2019](https://agrawalarpit14.github.io/GSoC/)
-* More [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440) scripts for the easier challenges
-* Decouple [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440) better from frontend code
+![GitHub issues by-label](https://img.shields.io/github/issues/bkimminich/juice-shop/help%20wanted.svg)
+![GitHub issues by-label](https://img.shields.io/github/issues/bkimminich/juice-shop/good%20first%20issue.svg)
+
+* Challenges in the pristine
+  [features added during GSoC 2019](https://agrawalarpit14.github.io/GSoC/)
+* More
+  [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440)
+  scripts for the easier challenges
+* Decouple
+  [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440)
+  better from frontend code
