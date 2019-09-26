@@ -24,10 +24,10 @@ is found here.
 
 ### Top Sponsors
 
-[![XING](assets/images/Xing_logo.png)](https://corporate.xing.com/en/about-xing/security/)
-[![eSailors](assets/images/ESailors_Logo.png)](https://www.esailors.de/)
-[![iteratec](assets/images/300px-Iteratec-sponsor_logo.png)](https://www.iteratec.de/)
-[![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
+<a href="https://corporate.xing.com/en/about-xing/security/"><img src="assets/images/Xing_logo.png" alt="XING" style="padding: 50px"/></a>
+<a href="https://www.esailors.de/"><img src="assets/images/ESailors_Logo.png" alt="eSailors" style="padding: 50px"/></a>
+<a href="https://www.iteratec.de/"><img src="assets/images/300px-Iteratec-sponsor_logo.png" alt="iteratec" style="padding: 50px"/></a>
+<a href="http://www.denimgroup.com/"><img src="assets/images/300px-Denim-group_trans.png" alt="Denim Group" style="padding: 50px"/></a>
 
 #### Other Corporate Sponsors
 
