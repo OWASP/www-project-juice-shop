@@ -1,24 +1,10 @@
 ---
-title: Acknowledgements
+title: Sponsors
 layout:  null
 tab: true
-order: 4
+order: 5
 tags: juiceshop
 ---
-
-## Contributors
-
-[![GitHub contributors](https://img.shields.io/github/contributors/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/graphs/contributors)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/owasp-juice-shop/localized.svg)](https://crowdin.com/project/owasp-juice-shop)
-[![Bountysource Activity](https://img.shields.io/bountysource/team/juice-shop/activity.svg)](https://www.bountysource.com/teams/juice-shop)
-
-The OWASP Juice Shop has been created by
-[Björn Kimminich](mailto://bjoern.kimminich@owasp.org) and is developed,
-maintained and translated by a
-[team of volunteers](https://github.com/bkimminich/juice-shop/blob/master/HALL_OF_FAME.md).
-A
-[live update of the project contributors](https://github.com/bkimminich/juice-shop/graphs/contributors)
-is found here.
 
 ## Project Sponsors [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40owasp%2eorg&lc=BM&item_name=OWASP%20Juice%20Shop%20Project&item_number=OWASP%20Foundation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF)
 

@@ -2,7 +2,7 @@
 title: News
 layout:  null
 tab: true
-order: 3
+order: 4
 tags: juiceshop
 ---
 
@@ -19,10 +19,16 @@ tags: juiceshop
   [`v9.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v9.0.0)
 * 05.08.19: juice-shop
   [`v8.7.3`](https://github.com/bkimminich/juice-shop/releases/tag/v8.7.3)
+
+### CTF Extension
+
+[![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop-ctf.svg)](https://github.com/bkimminich/juice-shop-ctf/releases/latest)
+[![npm](https://img.shields.io/npm/dm/juice-shop-ctf-cli.svg)](https://www.npmjs.com/package/juice-shop-ctf-cli)
+[![npm](https://img.shields.io/npm/dt/juice-shop-ctf-cli.svg)](https://www.npmjs.com/package/juice-shop-ctf-cli)
+[![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop-ctf.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop-ctf/)
+
 * 17.06.19: juice-shop-ctf
   [`v6.1.1`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v6.1.1)
-* 13.06.19: juice-shop
-  [`v8.7.2`](https://github.com/bkimminich/juice-shop/releases/tag/v8.7.2)
 
 ## Roadmap
 

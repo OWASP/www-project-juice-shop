@@ -42,6 +42,20 @@ which can be reverse-translated word by word into "juice shop". Hence
 the project name. That the initials "JS" match with those of
 "JavaScript" was purely coincidental!_
 
+## Contributors
+
+[![GitHub contributors](https://img.shields.io/github/contributors/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/graphs/contributors)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/owasp-juice-shop/localized.svg)](https://crowdin.com/project/owasp-juice-shop)
+[![Bountysource Activity](https://img.shields.io/bountysource/team/juice-shop/activity.svg)](https://www.bountysource.com/teams/juice-shop)
+
+The OWASP Juice Shop has been created by
+[Björn Kimminich](mailto://bjoern.kimminich@owasp.org) and is developed,
+maintained and translated by a
+[team of volunteers](https://github.com/bkimminich/juice-shop/blob/master/HALL_OF_FAME.md).
+A
+[live update of the project contributors](https://github.com/bkimminich/juice-shop/graphs/contributors)
+is found here.
+
 ## Licensing
 
 [![license](https://img.shields.io/github/license/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/blob/master/LICENSE)
