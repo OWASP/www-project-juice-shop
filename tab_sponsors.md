@@ -41,3 +41,10 @@ tags: juiceshop
 
 $1,251.68 of royalties from [Björn Kimminich](https://kimminich.de)'s
 eBook have been donated to the project between 09/2017 and 07/2019!
+
+### Current Project Balance
+
+You can find the current project balance along with a history of all
+donations and spendings in the
+[Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/14UWhT7SbJAmNBES1ZYdRk8N5f8S2jVkbQbLZz26eM0I/edit#gid=1346179950&range=C323)
+spreadsheet.
