@@ -11,7 +11,7 @@ tags: juiceshop
 * **Free and Open source**: Licensed under the
   [MIT license](https://github.com/bkimminich/juice-shop/blob/master/LICENSE)
   with no hidden costs or caveats
-* [**Easy-to-install**](https://github.com/bkimminich/juice-shop#setup):
+* **Easy-to-install**:
   Choose between [node.js](http://nodejs.org),
   [Docker](https://www.docker.com) and
   [Vagrant](https://www.vagrantup.com/downloads.html) to run on
