@@ -8,7 +8,7 @@
 ### Sources
 
 * [GitHub](https://github.com/bkimminich/juice-shop)
-* [CTF-Extension](https://github.com/bkimminich/juice-shop-ctf)
+* CTF Extension [GitHub](https://github.com/bkimminich/juice-shop-ctf)
 * [Crowdin I18N](https://crowdin.com/project/owasp-juice-shop)
 
 ### Documentation
@@ -37,7 +37,9 @@
 * SpreadShirt
   ([US](http://shop.spreadshirt.com/juiceshop)/[EU](http://shop.spreadshirt.de/juiceshop))
 
-### Classification
+---
+
+### Project Information
 
 * [Flagship Project](https://www.owasp.org/index.php/OWASP_Project_Stages#Flagship_Projects)
 * [Tool Project](https://www.owasp.org/index.php/Category:OWASP_Tool)
