@@ -46,6 +46,12 @@ eBook have been donated to the project between 09/2017 and 07/2019!
 
 * [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221))</sup>
 
+<small><small>_In order to be recognized as a corporate code sponsor an offical
+written confirmation of waiving all IP to the contributed code is
+required._</small></small>
+
+---
+
 ### Current Project Balance
 
 You can find the current project balance along with a history of all
