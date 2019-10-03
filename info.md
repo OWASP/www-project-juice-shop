@@ -8,7 +8,7 @@
 ### Sources
 
 * [GitHub](https://github.com/bkimminich/juice-shop)
-* CTF Extension [GitHub](https://github.com/bkimminich/juice-shop-ctf)
+* [CTF Extension (GitHub)](https://github.com/bkimminich/juice-shop-ctf)
 * [Crowdin I18N](https://crowdin.com/project/owasp-juice-shop)
 
 ### Documentation
