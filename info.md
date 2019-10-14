@@ -16,7 +16,7 @@
 * [Online Demo](https://juice-shop.herokuapp.com/)
 * [Introduction Slides](http://bkimminich.github.io/juice-shop)
 * Companion Guide
-  ([LeanPub](https://leanpub.com/juice-shop)/[GitBook](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content))
+  ([LeanPub](https://leanpub.com/juice-shop)/[Online](http://pwning.owasp-juice.shop))
 
 ### Community
 
