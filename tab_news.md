@@ -14,12 +14,12 @@ tags: juiceshop
 [![SourceForge](https://img.shields.io/sourceforge/dt/juice-shop?label=sourceforge%20downloads)](https://sourceforge.net/projects/juice-shop/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop/)
 
+* 15.10.19: juice-shop
+  [`v9.1.2`](https://github.com/bkimminich/juice-shop/releases/tag/v9.1.2)
 * 14.10.19: juice-shop
   [`v9.1.1`](https://github.com/bkimminich/juice-shop/releases/tag/v9.1.1)
 * 12.10.19: juice-shop
   [`v9.1.0`](https://github.com/bkimminich/juice-shop/releases/tag/v9.1.0)
-* 29.08.19: juice-shop
-  [`v9.0.1`](https://github.com/bkimminich/juice-shop/releases/tag/v9.0.1)
 
 ### CTF Extension
 
@@ -28,6 +28,8 @@ tags: juiceshop
 [![npm](https://img.shields.io/npm/dt/juice-shop-ctf-cli.svg)](https://www.npmjs.com/package/juice-shop-ctf-cli)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop-ctf.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop-ctf/)
 
+* 15.10.19: juice-shop-ctf
+  [`v6.1.2`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v6.1.2)
 * 17.06.19: juice-shop-ctf
   [`v6.1.1`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v6.1.1)
 
