@@ -35,12 +35,8 @@ tags: juiceshop
 
 [![Pwning OWASP Juice Shop](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
 
-[![](https://img.shields.io/leanpub/book/pages/juice-shop.svg)](https://leanpub.com/juice-shop)
-[![](https://img.shields.io/leanpub/book/sold/juice-shop.svg)](https://leanpub.com/juice-shop)
-[![Write Goodreads Review](https://img.shields.io/badge/goodreads-write%20review-47129532.svg)](https://www.goodreads.com/review/edit/47129532)
-
 $1,251.68 of royalties from [Björn Kimminich](https://kimminich.de)'s
-eBook have been donated to the project between 09/2017 and 07/2019!
+eBook have been donated to the project between 09/2017 and 07/2019.
 
 #### Corporate-sponsored code contributions
 
