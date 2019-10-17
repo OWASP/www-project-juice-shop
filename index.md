@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP Juice Shop
 tags: juiceshop
 level: 4
+type: tool
 ---
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/develop/frontend/src/assets/public/images/JuiceShop_Logo_100px.png)
