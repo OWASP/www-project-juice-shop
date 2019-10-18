@@ -16,16 +16,17 @@ tags: juiceshop
 official companion guide for this project. It will give you a complete
 overview of the vulnerabilities found in the application including hints
 how to spot and exploit them. In the appendix you will even find
-complete step-by-step solutions to every challenge. The ebook is
-published under
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-and is available **for free** online-readable at
-<https://pwning.owasp-juice.shop>. The latest officially released edition
-is also available **for free** at <https://leanpub.com/juice-shop> in
-PDF, Kindle and ePub format.
+complete step-by-step solutions to every challenge.
 
 [![Pwning OWASP Juice Shop cover](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
 [![Pwning OWASP Juice Shop back cover](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/back_small.jpg)](https://leanpub.com/juice-shop)
+
+The ebook is published under
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+and is available **for free** online-readable at
+<https://pwning.owasp-juice.shop>. The latest officially released
+edition is also available **for free** at
+<https://leanpub.com/juice-shop> in PDF, Kindle and ePub format.
 
 ## Endorsed Open Source Projects
 
