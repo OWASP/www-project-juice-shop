@@ -1,3 +1,13 @@
+### Project Classification
+
+[![Flagship Project](https://www2.owasp.org/assets/images/common/owasp_level_flagship.svg)](https://www.owasp.org/index.php/OWASP_Project_Stages#Flagship_Projects)
+
+[![Builders](https://www2.owasp.org/assets/images/common/owasp_builders.svg)](https://www.owasp.org/index.php/Builders)
+[![Breakers](https://www2.owasp.org/assets/images/common/owasp_breakers.svg)](https://www.owasp.org/index.php/Breakers)
+[![Defenders](https://www2.owasp.org/assets/images/common/owasp_defenders.svg)](https://www.owasp.org/index.php/Defenders)
+
+[![Tool Project](https://www2.owasp.org/assets/images/common/owasp_tool_project.svg)](https://www.owasp.org/index.php/Category:OWASP_Tool)
+
 ### Installation
 
 * [From Source](https://github.com/bkimminich/juice-shop#from-sources)
@@ -36,13 +46,3 @@
 * [StickerYou](https://www.stickeryou.com/products/owasp-juice-shop/794)
 * SpreadShirt
   ([US](http://shop.spreadshirt.com/juiceshop)/[EU](http://shop.spreadshirt.de/juiceshop))
-
----
-
-### Project Information
-
-* [Flagship Project](https://www.owasp.org/index.php/OWASP_Project_Stages#Flagship_Projects)
-* [Tool Project](https://www.owasp.org/index.php/Category:OWASP_Tool)
-* [Builders](https://www.owasp.org/index.php/Builders)
-* [Breakers](https://www.owasp.org/index.php/Breakers)
-* [Defenders](https://www.owasp.org/index.php/Defenders)
