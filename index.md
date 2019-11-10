@@ -4,7 +4,7 @@ title: OWASP Juice Shop
 tags: juiceshop
 level: 4
 type: tool
-pitch: Probably the most modern and sophisticated insecure web application for security trainings, awareness demos, CTFs and as a guinea pig for security tools!
+pitch: Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs. Also great voluntary guinea pig for your security tools and DevSecOps pipelines!
 ---
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/develop/frontend/src/assets/public/images/JuiceShop_Logo_100px.png)
