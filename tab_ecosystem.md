@@ -23,7 +23,7 @@ complete step-by-step solutions to every challenge.
 
 The ebook is published under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-and is available **for free** online-readable at
+and is online-readable **for free** at
 <https://pwning.owasp-juice.shop>. The latest officially released
 edition is also available **for free** at
 <https://leanpub.com/juice-shop> in PDF, Kindle and ePub format.
