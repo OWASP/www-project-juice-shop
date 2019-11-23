@@ -21,4 +21,13 @@ events with the OWASP Juice Shop challenges for different popular CTF
 frameworks. This interactive utility allows you to populate a CTF game
 server in a matter of minutes.
 
-[![asciicast](https://asciinema.org/a/244925.png)](https://asciinema.org/a/244925?size=medium&rows=28&speed=1.25)
+![Juice Shop CLI in Powershell](https://raw.githubusercontent.com/bkimminich/juice-shop-ctf/master/images/juice-shop-ctf-cli.png)
+
+### Supported CTF Frameworks
+
+The following open source CTF frameworks are supported by
+`juice-shop-ctf-cli`:
+
+* [CTFd](https://github.com/CTFd/CTFd/releases/latest)
+* [FBCTF](https://github.com/facebook/fbctf)
+* [RootTheBox](https://github.com/moloch--/RootTheBox)
