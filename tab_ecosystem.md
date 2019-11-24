@@ -30,9 +30,9 @@ edition is also available **for free** at
 
 ## Endorsed Open Source Projects
 
-| Project                                                                                                                                        |                                                                                      Description                                                                                       |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![JuicyCTF Logo](https://raw.githubusercontent.com/iteratec/juicy-ctf/master/cover.svg?sanitize=true)](https://github.com/iteratec/juicy-ctf) |                          Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster                          |
+| Project                                                                                                                                        | Description                                                                                                                                                                            |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![JuicyCTF Logo](https://raw.githubusercontent.com/iteratec/juicy-ctf/master/cover.svg?sanitize=true)](https://github.com/iteratec/juicy-ctf) | Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster                                                   |
 | <https://github.com/wurstbrot/shake-logger>                                                                                                    | Demo to show the dangers of XSS holes combined with bad Content Security Policy using Harlem Shake and a Keylogger against the Juice Shop ([📺YouTube](https://youtu.be/Msi52Kicb-w)) |
 
 _The tools listed above are provided by third parties outside of the
