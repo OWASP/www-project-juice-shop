@@ -37,4 +37,4 @@ edition is also available **for free** at
 
 _The tools listed above are provided by third parties outside of the
 OWASP Juice Shop project scope. For support or feature requests please
-use their own respective support channels or issue tracker._
+use the support channels or issue trackers mentioned by these projects._
