@@ -45,6 +45,3 @@ tags: juiceshop
 * More
   [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440)
   scripts for the easier challenges
-* Decouple
-  [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440)
-  better from frontend code
