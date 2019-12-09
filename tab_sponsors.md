@@ -10,24 +10,24 @@ tags: juiceshop
 
 ### Top Sponsors
 
-[![XING](assets/images/Xing_logo.png)](https://corporate.xing.com/en/about-xing/security/) <!-- 26.09.2016 -->
-[![eSailors](assets/images/ESailors_Logo.png)](https://www.esailors.de/) <!-- 31.07.2017 -->
-[![iteratec](assets/images/300px-Iteratec-sponsor_logo.png)](https://www.iteratec.de/) <!-- 30.11.2017 -->
 [![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/) <!-- 26.08.2018 / 20.09.2019 -->
 
 #### Other Corporate Sponsors
 
-* [PlexTrac](https://plextrac.com)
-* [Silpion](https://silpion.de)
+* [PlexTrac](https://plextrac.com)<sup>(2019)</sup>
+* [Silpion](https://silpion.de)<sup>(2019)</sup>
+* [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- 30.11.2017 -->
+* [eSailors](https://www.esailors.de/)<sup>(2016)</sup> <!-- 31.07.2017 -->
+* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup> <!-- 26.09.2016 -->
 
 #### Other Individual Sponsors
 
-* Jeroen Willemsen
-* Soron Foster
-* Bendik Mjaaland
-* Timo Pagel
+* Tobias Glemser<sup>(2018)</sup>
+* Jeroen Willemsen<sup>(2017)</sup>
+* Soron Foster<sup>(2017)</sup>
+* Bendik Mjaaland<sup>(2017)</sup>
+* Timo Pagel<sup>(2016)</sup>
 * Benjamin Pfänder
-* [Björn Kimminich](https://kimminich.de)
 * [Kevin Chung](https://twitter.com/kchungco)
 * [Brian Johnson](http://www.7minsec.com/)
 
