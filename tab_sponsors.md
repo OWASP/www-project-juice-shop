@@ -10,10 +10,10 @@ tags: juiceshop
 
 ### Top Sponsors
 
-[![XING](assets/images/Xing_logo.png)](https://corporate.xing.com/en/about-xing/security/)
-[![eSailors](assets/images/ESailors_Logo.png)](https://www.esailors.de/)
-[![iteratec](assets/images/300px-Iteratec-sponsor_logo.png)](https://www.iteratec.de/)
-[![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
+[![XING](assets/images/Xing_logo.png)](https://corporate.xing.com/en/about-xing/security/) <!-- 26.09.2016 -->
+[![eSailors](assets/images/ESailors_Logo.png)](https://www.esailors.de/) <!-- 31.07.2017 -->
+[![iteratec](assets/images/300px-Iteratec-sponsor_logo.png)](https://www.iteratec.de/) <!-- 30.11.2017 -->
+[![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/) <!-- 26.08.2018 / 20.09.2019 -->
 
 #### Other Corporate Sponsors
 
