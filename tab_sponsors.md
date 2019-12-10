@@ -22,6 +22,7 @@ tags: juiceshop
 
 #### Other Individual Sponsors
 
+* [Björn Kimminich](htrps://kimminich.de)<sup>(2019)</sup>
 * Tobias Glemser<sup>(2018)</sup>
 * Jeroen Willemsen<sup>(2017)</sup>
 * Soron Foster<sup>(2017)</sup>
