@@ -10,27 +10,36 @@ tags: juiceshop
 
 ### Top Sponsors
 
-[![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/) <!-- 26.08.2018 / 20.09.2019 -->
+[![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
 
-#### Other Corporate Sponsors
+#### All Corporate Sponsors
 
+* [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!-- >=1000€ @ 26.08.2018 & 20.09.2019 -->
 * [PlexTrac](https://plextrac.com)<sup>(2019)</sup>
 * [Silpion](https://silpion.de)<sup>(2019)</sup>
-* [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- 30.11.2017 -->
-* [eSailors](https://www.esailors.de/)<sup>(2016)</sup> <!-- 31.07.2017 -->
-* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup> <!-- 26.09.2016 -->
+* [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- >=1000€ @ 30.11.2017 -->
+* [eSailors](https://www.esailors.de/)<sup>(2016)</sup> <!-- >=1000€ @ 31.07.2017 -->
+* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup> <!-- >=1000€ @ 26.09.2016 -->
 
-#### Other Individual Sponsors
+#### All Individual Sponsors
 
-* [Björn Kimminich](htrps://kimminich.de)<sup>(2019)</sup>
+* [Björn Kimminich](htrps://kimminich.de)<sup>(2016-2019)</sup>
 * Tobias Glemser<sup>(2018)</sup>
 * Jeroen Willemsen<sup>(2017)</sup>
 * Soron Foster<sup>(2017)</sup>
 * Bendik Mjaaland<sup>(2017)</sup>
 * Timo Pagel<sup>(2016)</sup>
-* Benjamin Pfänder
-* [Kevin Chung](https://twitter.com/kchungco)
-* [Brian Johnson](http://www.7minsec.com/)
+* Benjamin Pfänder<sup>(?)</sup>
+* [Kevin Chung](https://twitter.com/kchungco)<sup>(?)</sup>
+* [Brian Johnson](http://www.7minsec.com/)<sup>(?)</sup>
+
+#### All Corporate-sponsored Code Contributions
+
+* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221), 2019)</sup>
+
+<small><small>_In order to be recognized as a corporate code sponsor an offical
+written confirmation of waiving all IP to the contributed code is
+required._</small></small>
 
 #### LeanPub Royalties
 
@@ -38,14 +47,6 @@ tags: juiceshop
 
 $1,251.68 of royalties from [Björn Kimminich](https://kimminich.de)'s
 eBook have been donated to the project between 09/2017 and 07/2019.
-
-#### Corporate-sponsored code contributions
-
-* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221))</sup>
-
-<small><small>_In order to be recognized as a corporate code sponsor an offical
-written confirmation of waiving all IP to the contributed code is
-required._</small></small>
 
 ---
 
