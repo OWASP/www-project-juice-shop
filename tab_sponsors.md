@@ -17,11 +17,13 @@ tags: juiceshop
 ### Top Sponsors
 
 [![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
+[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
 
 #### All Corporate Sponsors
 
 * [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!-- >=1000€ @ 26.08.2018 & 20.09.2019 -->
 * [secuvera](https://www.secuvera.de/)<sup>(2018-2019)</sup>
+* [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019)</sup> <!-- >=1000€ @ 19.12.2019 -->
 * [PlexTrac](https://plextrac.com)<sup>(2019)</sup>
 * [Silpion](https://silpion.de)<sup>(2019)</sup>
 * [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- >=1000€ @ 30.11.2017 -->
