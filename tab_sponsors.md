@@ -21,6 +21,7 @@ tags: juiceshop
 #### All Corporate Sponsors
 
 * [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!-- >=1000€ @ 26.08.2018 & 20.09.2019 -->
+* [secuvera](https://www.secuvera.de/)<sup>(2018-2019)</sup>
 * [PlexTrac](https://plextrac.com)<sup>(2019)</sup>
 * [Silpion](https://silpion.de)<sup>(2019)</sup>
 * [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- >=1000€ @ 30.11.2017 -->
@@ -30,7 +31,6 @@ tags: juiceshop
 #### All Individual Sponsors
 
 * [Björn Kimminich](htrps://kimminich.de)<sup>(2016-2019)</sup>
-* Tobias Glemser<sup>(2018)</sup>
 * Jeroen Willemsen<sup>(2017)</sup>
 * Soron Foster<sup>(2017)</sup>
 * Bendik Mjaaland<sup>(2017)</sup>
