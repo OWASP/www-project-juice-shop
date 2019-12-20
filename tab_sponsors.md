@@ -6,7 +6,13 @@ order: 5
 tags: juiceshop
 ---
 
-## Project Sponsors [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40owasp%2eorg&lc=BM&item_name=OWASP%20Juice%20Shop%20Project&item_number=OWASP%20Foundation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF)
+## Project Sponsors
+
+> You can earmark a donation to OWASP explicitly for the Juice Shop by
+> using
+> [this link](https://www2.owasp.org/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+> or the green "Donate"-button while on any tab of the Juice Shop
+> project page!
 
 ### Top Sponsors
 
@@ -35,11 +41,12 @@ tags: juiceshop
 
 #### All Corporate-sponsored Code Contributions
 
-* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221), 2019)</sup>
+* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221),
+  2019)</sup>
 
-<small><small>_In order to be recognized as a corporate code sponsor an offical
-written confirmation of waiving all IP to the contributed code is
-required._</small></small>
+<small><small>_In order to be recognized as a corporate code sponsor an
+offical written confirmation of waiving all IP to the contributed code
+is required._</small></small>
 
 #### LeanPub Royalties
 
