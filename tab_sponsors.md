@@ -6,30 +6,49 @@ order: 5
 tags: juiceshop
 ---
 
-## Project Sponsors [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40owasp%2eorg&lc=BM&item_name=OWASP%20Juice%20Shop%20Project&item_number=OWASP%20Foundation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF)
+## Project Sponsors
+
+> You can earmark a donation to OWASP explicitly for the Juice Shop by
+> using
+> [this link](https://www2.owasp.org/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+> or the green "Donate"-button while on any tab of the Juice Shop
+> project page!
 
 ### Top Sponsors
 
-[![XING](assets/images/Xing_logo.png)](https://corporate.xing.com/en/about-xing/security/)
-[![eSailors](assets/images/ESailors_Logo.png)](https://www.esailors.de/)
-[![iteratec](assets/images/300px-Iteratec-sponsor_logo.png)](https://www.iteratec.de/)
 [![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
+[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
 
-#### Other Corporate Sponsors
+#### All Corporate Sponsors
 
-* [PlexTrac](https://plextrac.com)
-* [Silpion](https://silpion.de)
+* [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!-- >=1000€ @ 26.08.2018 & 20.09.2019 -->
+* [secuvera](https://www.secuvera.de/)<sup>(2018-2019)</sup>
+* [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019)</sup> <!-- >=1000€ @ 19.12.2019 -->
+* [PlexTrac](https://plextrac.com)<sup>(2019)</sup>
+* [Silpion](https://silpion.de)<sup>(2019)</sup>
+* [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- >=1000€ @ 30.11.2017 -->
+* [eSailors](https://www.esailors.de/)<sup>(2016)</sup> <!-- >=1000€ @ 31.07.2017 -->
+* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup> <!-- >=1000€ @ 26.09.2016 -->
 
-#### Other Individual Sponsors
+#### All Individual Sponsors
 
-* Jeroen Willemsen
-* Soron Foster
-* Bendik Mjaaland
-* Timo Pagel
-* Benjamin Pfänder
-* [Björn Kimminich](https://kimminich.de)
-* [Kevin Chung](https://twitter.com/kchungco)
-* [Brian Johnson](http://www.7minsec.com/)
+* [Björn Kimminich](htrps://kimminich.de)<sup>(2016-2019)</sup>
+* Jeroen Willemsen<sup>(2017)</sup>
+* Soron Foster<sup>(2017)</sup>
+* Bendik Mjaaland<sup>(2017)</sup>
+* Timo Pagel<sup>(2016)</sup>
+* Benjamin Pfänder<sup>(?)</sup>
+* [Kevin Chung](https://twitter.com/kchungco)<sup>(?)</sup>
+* [Brian Johnson](http://www.7minsec.com/)<sup>(?)</sup>
+
+#### All Corporate-sponsored Code Contributions
+
+* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221),
+  2019)</sup>
+
+<small><small>_In order to be recognized as a corporate code sponsor an
+offical written confirmation of waiving all IP to the contributed code
+is required._</small></small>
 
 #### LeanPub Royalties
 
@@ -37,14 +56,6 @@ tags: juiceshop
 
 $1,251.68 of royalties from [Björn Kimminich](https://kimminich.de)'s
 eBook have been donated to the project between 09/2017 and 07/2019.
-
-#### Corporate-sponsored code contributions
-
-* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221))</sup>
-
-<small><small>_In order to be recognized as a corporate code sponsor an offical
-written confirmation of waiving all IP to the contributed code is
-required._</small></small>
 
 ---
 
