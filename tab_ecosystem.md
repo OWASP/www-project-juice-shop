@@ -8,8 +8,6 @@ tags: juiceshop
 
 ## Official Companion Guide
 
-[![](https://img.shields.io/leanpub/book/pages/juice-shop.svg)](https://leanpub.com/juice-shop)
-[![](https://img.shields.io/leanpub/book/sold/juice-shop.svg)](https://leanpub.com/juice-shop)
 [![Write Goodreads Review](https://img.shields.io/badge/goodreads-write%20review-47129532.svg)](https://www.goodreads.com/review/edit/47129532)
 
 [Pwning OWASP Juice Shop](https://leanpub.com/juice-shop) is the
