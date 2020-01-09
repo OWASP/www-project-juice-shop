@@ -32,7 +32,8 @@ tags: juiceshop
 
 #### All Individual Sponsors
 
-{% for person in site.data.ow_attributions %}
+{% assign individual_sponsors = site.data.ow_attributions | uniq %}
+{% for person in individual_sponsors %}
 * {{ person }}
 {% endfor %}
 
