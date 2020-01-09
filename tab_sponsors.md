@@ -33,7 +33,7 @@ tags: juiceshop
 #### All Individual Sponsors
 
 {% for person in site.data.ow_attributions %}
-{{ person }}
+* {{ person }}
 {% endfor %}
 
 #### All Corporate-sponsored Code Contributions
