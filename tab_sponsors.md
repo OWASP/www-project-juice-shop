@@ -34,7 +34,7 @@ tags: juiceshop
 
 {% assign individual_sponsors = site.data.ow_attributions | uniq %}
 {% for person in individual_sponsors %}
-* {{ person }}
+* {{ person | strip_html | strip_newlines | strip }}
 {% endfor %}
 
 #### All Corporate-sponsored Code Contributions
