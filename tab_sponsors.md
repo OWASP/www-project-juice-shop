@@ -32,14 +32,9 @@ tags: juiceshop
 
 #### All Individual Sponsors
 
-* [Björn Kimminich](htrps://kimminich.de)<sup>(2016-2019)</sup>
-* Jeroen Willemsen<sup>(2017)</sup>
-* Soron Foster<sup>(2017)</sup>
-* Bendik Mjaaland<sup>(2017)</sup>
-* Timo Pagel<sup>(2016)</sup>
-* Benjamin Pfänder<sup>(?)</sup>
-* [Kevin Chung](https://twitter.com/kchungco)<sup>(?)</sup>
-* [Brian Johnson](http://www.7minsec.com/)<sup>(?)</sup>
+{% for person in site.data.ow_attributions %}
+{{ person }}
+{% endfor %}
 
 #### All Corporate-sponsored Code Contributions
 
