@@ -3,3 +3,6 @@ plugins:
  - jekyll-include-cache-0.2.0
 code_user: bkimminich
 code_repo: juice-shop
+webrick:
+ headers:
+  X-Content-Type-Options: nosniff
