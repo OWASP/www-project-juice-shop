@@ -10,7 +10,7 @@ tags: juiceshop
 
 > You can earmark a donation to OWASP explicitly for the Juice Shop by
 > using
-> [this link](https://www2.owasp.org/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+> [this link](https://owasp.org/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 > or the green "Donate"-button while on any tab of the Juice Shop
 > project page!
 
@@ -36,7 +36,7 @@ tags: juiceshop
 {% for person in individual_sponsors %}
 * {{ person | strip_html | strip_newlines | strip }}
 {% endfor %}
-* _You want to appear on this list?_ [🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+* _You want to appear on this list?_ [Donate here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 
 #### All Corporate-sponsored Code Contributions
 

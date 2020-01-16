@@ -1,12 +1,20 @@
-### Project Classification
+## Project Information
 
-[![Flagship Project](https://www2.owasp.org/assets/images/common/owasp_level_flagship.svg)](https://www.owasp.org/index.php/OWASP_Project_Stages#Flagship_Projects)
+#### <i class="fas fa-flag" style="font-size: 1.2em; color:#233e81;"></i>  <span style="font-size:1.2em">Flagship Project</span>
 
-[![Builders](https://www2.owasp.org/assets/images/common/owasp_builders.svg)](https://www.owasp.org/index.php/Builders)
-[![Breakers](https://www2.owasp.org/assets/images/common/owasp_breakers.svg)](https://www.owasp.org/index.php/Breakers)
-[![Defenders](https://www2.owasp.org/assets/images/common/owasp_defenders.svg)](https://www.owasp.org/index.php/Defenders)
+#### Classification
 
-[![Tool Project](https://www2.owasp.org/assets/images/common/owasp_tool_project.svg)](https://www.owasp.org/index.php/Category:OWASP_Tool)
+<i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i>
+<span style="font-size:1.2em">Tool</span>
+
+#### Audience
+
+<i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i>
+<span style="font-size:1.2em">Builder</span> <i class="fas fa-hammer"
+style="font-size: 1.2em; color:#233e81;"></i> <span
+style="font-size:1.2em">Breaker</span> <i class="fas fa-shield-alt"
+style="font-size: 1.2em; color:#233e81;"></i> <span
+style="font-size:1.2em">Defender</span>
 
 ### Installation
 
