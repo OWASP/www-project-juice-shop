@@ -1,20 +1,17 @@
-### Project Information
+## Project Information
 
-#### <i class="fas fa-flag" style="font-size: 1.2em; color:#2ADA08;"></i>  <span style="font-size:1.2em">Flagship Project</span>
+#### <i class="fas fa-flag" style="color:#2ADA08;"></i> Flagship Project
 
 #### Classification
 
 * <i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i>
-  <span style="font-size:1.2em">Tool</span>
+  Tool
 
 #### Audience
 
-* <i class="fas fa-toolbox" style="font-size: 1.2m; color:#233e81;"></i>
-  <span style="font-size:1.2em">Builder</span>
-* <i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i>
-  <span style="font-size:1.2em">Breaker</span>
-* <i class="fas fa-shield-alt" style="font-size: 1.2em;
-  color:#233e81;"></i> <span style="font-size:1.2em">Defender</span>
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### Installation
 
