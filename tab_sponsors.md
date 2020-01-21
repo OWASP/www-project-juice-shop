@@ -32,15 +32,15 @@ tags: juiceshop
 
 #### All Individual Sponsors
 
-{% assign individual_sponsors = site.data.ow_attributions | uniq %}
-{% for person in individual_sponsors %}
 * {{ person | strip_html | strip_newlines | strip }}
-{% endfor %}
-* _You want to appear on this list?_ [Donate here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+
+* _You want to appear on this list?_
+  [Donate here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 
 #### All Corporate-sponsored Code Contributions
 
-* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>([#1221](https://github.com/bkimminich/juice-shop/pull/1221),
+* [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>(
+  [#1221](https://github.com/bkimminich/juice-shop/pull/1221),
   2019)</sup>
 
 <small><small>_In order to be recognized as a corporate code sponsor an
@@ -51,10 +51,9 @@ is required._</small></small>
 
 [![Pwning OWASP Juice Shop](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
 
-$1,251.68 of royalties from [Björn Kimminich](https://kimminich.de)'s
-eBook have been donated to the project between 09/2017 and 07/2019.
-
----
+$1,251.68 of royalties from
+[Björn Kimminich](https://kimminich.de)'s eBook have been donated to the
+project between 09/2017 and 07/2019.
 
 ### Current Project Balance
 
@@ -62,3 +61,10 @@ You can find the current project balance along with a history of all
 donations and spendings in the
 [Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/14UWhT7SbJAmNBES1ZYdRk8N5f8S2jVkbQbLZz26eM0I/edit#gid=1346179950&range=C323)
 spreadsheet.
+
+---
+
+_The OWASP Foundation is very grateful for the support by the
+individuals and organizations listed. However please note, the OWASP
+Foundation is strictly vendor neutral and does not endorse any of its
+supporters._
