@@ -32,8 +32,10 @@ tags: juiceshop
 
 #### All Individual Sponsors
 
+{% assign individual_sponsors = site.data.ow_attributions | uniq %}
+{% for person in individual_sponsors %}
 * {{ person | strip_html | strip_newlines | strip }}
-
+{% endfor %}
 * _You want to appear on this list?_
   [Donate here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 
