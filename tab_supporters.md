@@ -1,12 +1,12 @@
 ---
-title: Sponsors
+title: Supporters
 layout:  null
 tab: true
 order: 5
 tags: juiceshop
 ---
 
-## Project Sponsors
+## Project Supporters
 
 > You can earmark a donation to OWASP explicitly for the Juice Shop by
 > using
@@ -14,12 +14,12 @@ tags: juiceshop
 > or the green "Donate"-button while on any tab of the Juice Shop
 > project page!
 
-### Top Sponsors
+### Top Supporters
 
 [![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
 [![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
 
-#### All Corporate Sponsors
+#### All Corporate Supporters
 
 * [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!-- >=1000€ @ 26.08.2018 & 20.09.2019 -->
 * [secuvera](https://www.secuvera.de/)<sup>(2018-2019)</sup>
@@ -30,14 +30,11 @@ tags: juiceshop
 * [eSailors](https://www.esailors.de/)<sup>(2016)</sup> <!-- >=1000€ @ 31.07.2017 -->
 * [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup> <!-- >=1000€ @ 26.09.2016 -->
 
-#### All Individual Sponsors
+#### All Individual Supporters
 
-{% assign individual_sponsors = site.data.ow_attributions | uniq %}
-{% for person in individual_sponsors %}
-* {{ person | strip_html | strip_newlines | strip }}
-{% endfor %}
+* {{ supporter | strip_html | strip_newlines | strip }} {% endfor %}
 * _You want to appear on this list?_
-  [Donate here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+  [Donate to OWASP here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 
 #### All Corporate-sponsored Code Contributions
 
@@ -53,9 +50,8 @@ is required._</small></small>
 
 [![Pwning OWASP Juice Shop](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
 
-$1,251.68 of royalties from
-[Björn Kimminich](https://kimminich.de)'s eBook have been donated to the
-project between 09/2017 and 07/2019.
+$1,251.68 of royalties from [Björn Kimminich](https://kimminich.de)'s
+eBook have been donated to the project between 09/2017 and 07/2019.
 
 ### Current Project Balance
 
