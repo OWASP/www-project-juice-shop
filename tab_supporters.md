@@ -37,7 +37,7 @@ tags: juiceshop
 * {{ supporter | strip_html | strip_newlines | strip }}
 {% endfor %}
 * _You want to appear on this list?_
-  [Donate to OWaSP here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+  [Donate to OWASP here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 
 #### All Corporate-sponsored Code Contributions
 
