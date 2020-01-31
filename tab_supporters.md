@@ -32,9 +32,12 @@ tags: juiceshop
 
 #### All Individual Supporters
 
-* {{ supporter | strip_html | strip_newlines | strip }} {% endfor %}
+{% assign individual_supporter = site.data.ow_attributions | uniq %}
+{% for supporter in individual_supporter %}
+* {{ supporter | strip_html | strip_newlines | strip }}
+{% endfor %}
 * _You want to appear on this list?_
-  [Donate to OWASP here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+  [Donate to OWaSP here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 
 #### All Corporate-sponsored Code Contributions
 
