@@ -8,9 +8,9 @@ tags: juiceshop
 
 ## Project Supporters
 
-> You can earmark a donation to OWASP explicitly for the Juice Shop by
+> You can attribute your donation to the OWASP Juice Shop project by
 > using
-> [this link](https://owasp.org/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+> [this link](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
 > or the green "Donate"-button while on any tab of the Juice Shop
 > project page!
 
@@ -56,12 +56,14 @@ is required._</small></small>
 $1,251.68 of royalties from [Björn Kimminich](https://kimminich.de)'s
 eBook have been donated to the project between 09/2017 and 07/2019.
 
+<!--
 ### Current Project Balance
 
 You can find the current project balance along with a history of all
 donations and spendings in the
 [Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/14UWhT7SbJAmNBES1ZYdRk8N5f8S2jVkbQbLZz26eM0I/edit#gid=1346179950&range=C323)
 spreadsheet.
+-->
 
 ---
 
