@@ -14,12 +14,12 @@ tags: juiceshop
 [![SourceForge](https://img.shields.io/sourceforge/dt/juice-shop?label=sourceforge%20downloads)](https://sourceforge.net/projects/juice-shop/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop/)
 
+* 29.02.20: juice-shop
+  [`v10.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.0.0)
 * 22.12.19: juice-shop
   [`v9.3.1`](https://github.com/bkimminich/juice-shop/releases/tag/v9.3.1)
 * 25.11.19: juice-shop
   [`v9.3.0`](https://github.com/bkimminich/juice-shop/releases/tag/v9.3.0)
-* 06.11.19: juice-shop
-  [`v9.2.0`](https://github.com/bkimminich/juice-shop/releases/tag/v9.2.0)
 
 ### CTF Extension
 
