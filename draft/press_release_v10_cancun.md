@@ -1,5 +1,5 @@
 Releasing
-[Juice Shop v10.0.0](https://github.com/bkimminich/juice-shop/releases/tag/v10.0.0)
+[Juice Shop `v10.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.0.0)
 live from the beach of Cancun at the OWASP Projects Summit was a really
 unique event.
 
@@ -29,7 +29,7 @@ Kubernetes-based [MultiJuicer](https://github.com/iteratec/multi-juicer)
 platform offers fancy dashboards for each Juice Shop instance hosted on
 it. These can for example help trainers to keep track of how their
 students are doing with challenges and also allow them provide better
-technical troubleshooting. MultiJuicer `v3.0.0` is needed to make use of
+technical troubleshooting. MultiJuicer `v3. is needed to make use of
 this and also to remain compatible with Juice Shop 10.
 
 As always, you can find the fully updated
