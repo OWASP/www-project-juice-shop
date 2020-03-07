@@ -26,11 +26,18 @@ and is online-readable **for free** at
 edition is also available **for free** at
 <https://leanpub.com/juice-shop> in PDF, Kindle and ePub format.
 
+## Official Jingle
+
+Written an performed by
+[Brian Johnson](https://github.com/braimee)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 ## Endorsed Open Source Projects
 
-| Project                                                                                                                                                 | Description                                                                                                                                                                           |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![MultiJuicer Logo](https://raw.githubusercontent.com/iteratec/multi-juicer/master/cover.svg?sanitize=true)](https://github.com/iteratec/multi-juicer) | Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster                                                  |
+| Project                                                                                                                                                 | Description                                                                                                                                                                            |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![MultiJuicer Logo](https://raw.githubusercontent.com/iteratec/multi-juicer/master/cover.svg?sanitize=true)](https://github.com/iteratec/multi-juicer) | Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster                                                   |
 | <https://github.com/wurstbrot/shake-logger>                                                                                                             | Demo to show the dangers of XSS holes combined with bad Content Security Policy using Harlem Shake and a Keylogger against the Juice Shop ([📺YouTube](https://youtu.be/Msi52Kicb-w)) |
 
 _The tools listed above are provided by third parties outside of the
