@@ -1,5 +1,6 @@
 remote_theme: "owasp/www--site-theme"
 plugins:
  - jekyll-include-cache-0.2.0
+repository: OWASP/www-project-juice-shop
 code_user: bkimminich
 code_repo: juice-shop

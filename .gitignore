@@ -3,3 +3,6 @@ env
 .vscode
 .idea/
 *.iml
+.jekyll-metadata
+Gemfile.lock
+_site/
