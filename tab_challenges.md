@@ -18,13 +18,13 @@ tags: juiceshop
   </tr>
   {% for category in categories %}
   <tr>
-    <td style="width: 250px">{{ category.name }}</td>
-    <td style="width: 80px">{{ category.items.size }}</td>
+    <td style="min-width: 190px">{{ category.name }}</td>
+    <td style="min-width: 60px">{{ category.items.size }}</td>
     <td><small>{{ category.items | group_by:"name" | sort: "name" | map: "name" | join: ", " }}</small></td>
   </tr>
   {% endfor %}
   <tr>
-    <td style="white-space:nowrap;"><strong>Total Σ</strong></td>
+    <td><strong>Total Σ</strong></td>
     <td colspan="2">{{ site.data.challenges.size }}</td>
   </tr>
 </table>
