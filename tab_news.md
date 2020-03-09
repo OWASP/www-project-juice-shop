@@ -28,12 +28,12 @@ tags: juiceshop
 [![npm](https://img.shields.io/npm/dt/juice-shop-ctf-cli.svg)](https://www.npmjs.com/package/juice-shop-ctf-cli)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop-ctf.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop-ctf/)
 
+* 09.03.20: juice-shop-ctf
+  [`v8.0.0`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.0.0)
 * 22.11.19: juice-shop-ctf
   [`v7.0.0`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v7.0.0)
 * 15.10.19: juice-shop-ctf
   [`v6.1.2`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v6.1.2)
-* 17.06.19: juice-shop-ctf
-  [`v6.1.1`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v6.1.1)
 
 ## Roadmap
 
