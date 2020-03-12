@@ -51,7 +51,7 @@ listed order.
   <tr>
     <td style="min-width: 190px"><a href="{{ site.data.tutorials.baseUrl }}{{ site.data.tutorials.route }}{{ tutorial }}" target="_blank">{{ tutorial }}</a></td>
     <td style="min-width: 190px">{{ site.data.challenges | where:"name",tutorial | map: "category" }}</td>
-    <td style="min-width: 101px">
+    <td style="min-width: 100px">
     {% assign difficulty = site.data.challenges | where:"name",tutorial | map: "difficulty" | first | to_integer %}
     {% for i in (1..difficulty) %}⭐{% endfor %}
     </td>
