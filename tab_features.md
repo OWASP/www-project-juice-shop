@@ -18,11 +18,13 @@ tags: juiceshop
   Windows/Mac/Linux
 * **Self-contained**: Additional dependencies are pre-packaged or will
   be resolved and downloaded automatically
-* **Self-healing**: The simple SQLite and MarsDB databases are wiped and
-  repopulated from scratch on every server startup
+* **Beginner-friendly**: Hacking Instructor tutorial scripts guide users through
+  several of the easier challenges while explaining the underlying vulnerabilities
 * **Gamification**: The application notifies you on solved challenges
   and keeps track of successfully exploited vulnerabilities on a Score
   Board
+* **Self-healing**: The simple SQLite and MarsDB databases are wiped and
+  repopulated from scratch on every server startup
 * **Re-branding**: Fully customizable in business context and look &
   feel to your own corporate or customer requirements
 * **CTF-support**: Challenge notifications optionally contain a flag
@@ -45,4 +47,3 @@ tags: juiceshop
 > ([@kramse](https://twitter.com/kramse)) —
 > [But this doesn't have anything to do with juice.](https://twitter.com/coderPatros/status/1199268774626488320)
 > ([@coderPatros' wife](https://twitter.com/coderPatros))
-
