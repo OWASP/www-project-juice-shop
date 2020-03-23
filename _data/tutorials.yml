@@ -1,12 +1,2 @@
 baseUrl: 'http://preview.owasp-juice.shop'
 route: '/#/hacking-instructor?challenge='
-challenges:
-  - Score Board
-  - DOM XSS
-  - Privacy Policy
-  - Login Admin
-  - Password Strength
-  - View Basket
-  - Forged Feedback
-  - Login Jim
-  - Login Bender

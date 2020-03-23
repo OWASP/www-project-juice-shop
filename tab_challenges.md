@@ -8,7 +8,8 @@ tags: juiceshop
 
 ## Challenge Categories
 
-{% assign categories = site.data.challenges | group_by:"category" | sort: "name" %}{% assign tutorials = site.data.tutorials.challenges %}
+{% assign categories = site.data.challenges | group_by:"category" | sort: "name" %}
+{% assign tutorials = site.data.challenges | where_exp: "item", "item.tutorial != null" | sort: "tutorial.order" %}
 
 <table>
   <tr>
@@ -49,10 +50,10 @@ listed order.
   </tr>
   {% for tutorial in tutorials %}
   <tr>
-    <td style="min-width: 190px"><a href="{{ site.data.tutorials.baseUrl }}{{ site.data.tutorials.route }}{{ tutorial }}" target="_blank">{{ tutorial }}</a></td>
-    <td style="min-width: 190px">{{ site.data.challenges | where:"name",tutorial | map: "category" }}</td>
+    <td style="min-width: 190px"><a href="{{ site.data.tutorials.baseUrl }}{{ site.data.tutorials.route }}{{ tutorial.name }}" target="_blank">{{ tutorial.name }}</a></td>
+    <td style="min-width: 190px">{{ tutorial.category }}</td>
     <td style="min-width: 100px">
-    {% assign difficulty = site.data.challenges | where:"name",tutorial | map: "difficulty" | first | to_integer %}
+    {% assign difficulty = tutorial.difficulty | to_integer %}
     {% for i in (1..difficulty) %}⭐{% endfor %}
     </td>
   </tr>
