@@ -14,6 +14,7 @@ tags: juiceshop
 [![SourceForge](https://img.shields.io/sourceforge/dt/juice-shop?label=sourceforge%20downloads)](https://sourceforge.net/projects/juice-shop/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop/)
 
+<!-- next:juice-shop -->
 * 29.02.20: juice-shop
   [`v10.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.0.0)
 * 22.12.19: juice-shop
@@ -28,6 +29,7 @@ tags: juiceshop
 [![npm](https://img.shields.io/npm/dt/juice-shop-ctf-cli.svg)](https://www.npmjs.com/package/juice-shop-ctf-cli)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop-ctf.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop-ctf/)
 
+<!-- next:juice-shop-ctf -->
 * 24.03.20: juice-shop-ctf
   [`v8.0.2`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.0.2)
 * 23.03.20: juice-shop-ctf
