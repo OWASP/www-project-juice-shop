@@ -28,7 +28,7 @@ Please further note that we will most likely <strong>not select</strong> any <em
 * [From Source](https://github.com/bkimminich/juice-shop#from-sources)
 * Packaged
   ([GitHub](https://github.com/bkimminich/juice-shop/releases/)/[SourceForge](https://sourceforge.net/projects/juice-shop/files/))
-* [Docker Image](https://registry.hub.docker.com/u/bkimminich/juice-shop/)
+* [Docker Image](https://hub.docker.com/r/bkimminich/juice-shop)
 
 ### Sources
 

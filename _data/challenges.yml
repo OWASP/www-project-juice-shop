@@ -106,8 +106,6 @@
   disabledEnv:
     - Docker
     - Heroku
-  tags:
-    - 'new in v10.1.0'
 -
   name: 'Client-side XSS Protection'
   category: 'XSS'
@@ -748,8 +746,8 @@
   hintUrl: 'https://pwning.owasp-juice.shop/part2/xxe.html#retrieve-the-content-of-cwindowssystemini-or-etcpasswd-from-the-server'
   key: xxeFileDisclosureChallenge
   disabledEnv:
-    - Docker
-    - Heroku
+  - Docker
+  - Heroku
 -
   name: 'XXE DoS'
   category: 'XXE'
@@ -759,8 +757,8 @@
   hintUrl: 'https://pwning.owasp-juice.shop/part2/xxe.html#give-the-server-something-to-chew-on-for-quite-a-while'
   key: xxeDosChallenge
   disabledEnv:
-    - Docker
-    - Heroku
+  - Docker
+  - Heroku
 -
   name: 'Zero Stars'
   category: 'Improper Input Validation'
@@ -801,18 +799,14 @@
   hint: 'Look closely at what happens when you attempt to upgrade your account.'
   hintUrl: 'https://pwning.owasp-juice.shop/part2/improper-input-validation.html#obtain-a-deluxe-membership-without-paying-for-it'
   key: freeDeluxeChallenge
-  tags:
-    - 'new in v10.1.0'
 -
-  name: 'CSRF'
+  name: 'CSRF' # FIXME No e2e test automation! No longer works in Chrome >=80 or other latest browsers!
   category: 'Broken Access Control'
   description: 'Change the name of a user by performing Cross-Site Request Forgery from <a href="http://htmledit.squarefree.com">another origin</a>.'
   difficulty: 3
   hint: 'Find a form which updates the username and then construct a malicious page in the online HTML editor.'
   hintUrl: 'https://pwning.owasp-juice.shop/part2/broken-access-control.html#change-the-name-of-a-user-by-performing-cross-site-request-forgery-from-another-origin'
   key: csrfChallenge
-  tags:
-    - 'new in v10.1.0'
 -
   name: 'Bonus Payload'
   category: 'XSS'
@@ -821,5 +815,3 @@
   hint: 'Copy + Paste = Solved!'
   hintUrl: 'https://pwning.owasp-juice.shop/part2/xss.html#use-the-bonus-payload-in-the-dom-xss-challenge'
   key: xssBonusChallenge
-  tags:
-    - 'new in v10.1.0'
