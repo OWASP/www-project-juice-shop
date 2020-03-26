@@ -42,9 +42,7 @@ tags: juiceshop
 ![GitHub issues by-label](https://img.shields.io/github/issues/bkimminich/juice-shop/help%20wanted.svg)
 ![GitHub issues by-label](https://img.shields.io/github/issues/bkimminich/juice-shop/good%20first%20issue.svg)
 
-* Challenges in the pristine
-  [features added during GSoC 2019](https://agrawalarpit14.github.io/GSoC/)
-* More
-  [Hacking Instructor](https://github.com/bkimminich/juice-shop/issues/440)
-  scripts for the easier challenges
+* Participate in
+  [Google Summer of Code 2020](https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas#owasp-juice-shop)
+  with one student project
 
