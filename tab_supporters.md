@@ -43,7 +43,10 @@ tags: juiceshop
 
 * [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>(
   [#1221](https://github.com/bkimminich/juice-shop/pull/1221),
-  2019)</sup>
+  2019)</sup><sup>(
+  [#1356](https://github.com/bkimminich/juice-shop/pull/1356),
+  2020)</sup>
+
 
 <small><small>_In order to be recognized as a corporate code sponsor an
 offical written confirmation of waiving all IP to the contributed code
