@@ -1,0 +1,15 @@
+on:
+  schedule:
+    - cron:  '0 0 21 ? * MON-FRI *'
+
+jobs:
+  zap_scan:
+    runs-on: ubuntu-latest
+    name: Scan ZAP website
+    steps:
+      - name: ZAP Scan
+        uses: zaproxy/action-baseline@v0.2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target: 'https://owasp.org/www-project-juice-shop'
+          
