@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '0 0 21 ? * MON-FRI *'
+    - cron:  '0 17 * * *'
 
 jobs:
   zap_scan:
@@ -12,4 +12,3 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target: 'https://owasp.org/www-project-juice-shop'
-          
