@@ -1,13 +1,3 @@
-<div style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">
-If you are interested in doing your <a href="https://summerofcode.withgoogle.com" target="_blank">Google Summer of Code (GSoC)</a> project with us, please read the following two guidelines before reaching out to us:
-<ul>
-<li><a href="https://owasp.org/www-community/initiatives/gsoc/gsoc2020">OWASP's general GSoC Student Guidelines</a></li>
-<li><a href="https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas#owasp-juice-shop">GSoC 2020 ideas for Juice Shop</a></li>
-</ul>
-You will notice that for 2020 we did <em>not list any pre-defined projects</em> for Juice Shop. Students applying <em>must come up with their own ideas</em> this year.
-Please further note that we will most likely <strong>not select</strong> any <em>"I will add xx challenges..."</em>-project in 2020 as the current saturation is already <em>very high</em> with over 90 challenges!
-</div>
-
 ### Project Information
 
 * <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
