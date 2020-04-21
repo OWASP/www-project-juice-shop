@@ -2,7 +2,7 @@
 title: Supporters
 layout:  null
 tab: true
-order: 7
+order: 8
 tags: juiceshop
 ---
 
@@ -10,7 +10,7 @@ tags: juiceshop
 
 > You can attribute your donation to the OWASP Juice Shop project by
 > using
-> [this link](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+> [this link](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)<!-- @IGNORE PREVIOUS: link -->
 > or the green "Donate"-button while on any tab of the Juice Shop
 > project page!
 
@@ -37,7 +37,7 @@ tags: juiceshop
 * {{ supporter | strip_html | strip_newlines | strip }}
 {% endfor %}
 * _You want to appear on this list?_
-  [Donate to OWASP here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)
+  [Donate to OWASP here! 🤲](/donate?reponame=www-project-juice-shop&title=OWASP+Juice+Shop)<!-- @IGNORE PREVIOUS: link -->
 
 #### All Corporate-sponsored Code Contributions
 

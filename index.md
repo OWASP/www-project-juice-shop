@@ -11,7 +11,7 @@ pitch: Probably the most modern and sophisticated insecure web application for s
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/develop/frontend/src/assets/public/images/JuiceShop_Logo_100px.png)
 
-[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](/projects/#div-flagships)
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](/projects/#div-flagships)<!-- @IGNORE PREVIOUS: link -->
 [![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/bkimminich/juice-shop.svg?label=GitHub%20%E2%98%85&style=flat)](https://github.com/bkimminich/juice-shop/stargazers)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/bkimminich/juice-shop/blob/master/CODE_OF_CONDUCT.md)  
@@ -21,7 +21,7 @@ OWASP Juice Shop is probably the most modern and sophisticated insecure
 web application! It can be used in security trainings, awareness demos,
 CTFs and as a guinea pig for security tools! Juice Shop encompasses
 vulnerabilities from the entire
-[OWASP Top Ten](/www-project-top-ten) along with many other security
+[OWASP Top Ten](/www-project-top-ten)<!-- @IGNORE PREVIOUS: link --> along with many other security
 flaws found in real-world applications!
 
 ![Slideshow](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/slideshow.gif)
@@ -30,7 +30,7 @@ flaws found in real-world applications!
 
 Juice Shop is written in Node.js, Express and Angular. It was the first
 application written entirely in JavaScript listed in the
-[OWASP VWA Directory](/www-project-vulnerable-web-applications-directory).
+[OWASP VWA Directory](/www-project-vulnerable-web-applications-directory)<!-- @IGNORE PREVIOUS: link -->.
 
 The application contains a vast number of hacking challenges of varying
 difficulty where the user is supposed to exploit the underlying
