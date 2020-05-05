@@ -19,12 +19,6 @@ tags: juiceshop
 * 2020-04-23T16:22:19Z: juice-shop [`v10.2.1`](https://github.com/bkimminich/juice-shop/releases/tag/v10.2.1)
 * 2020-04-22T14:56:33Z: juice-shop [`v10.2.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.2.0)
 * 2020-03-28T09:56:06Z: juice-shop [`v10.1.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.1.0)
-* 29.02.20: juice-shop
-  [`v10.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.0.0)
-* 22.12.19: juice-shop
-  [`v9.3.1`](https://github.com/bkimminich/juice-shop/releases/tag/v9.3.1)
-* 25.11.19: juice-shop
-  [`v9.3.0`](https://github.com/bkimminich/juice-shop/releases/tag/v9.3.0)
 
 ### CTF Extension
 
