@@ -50,5 +50,5 @@
 
 * [StickerYou](https://www.stickeryou.com/products/owasp-juice-shop/794)
 * SpreadShirt
-  ([US](http://shop.spreadshirt.com/juiceshop)/[EU](http://shop.spreadshirt.de/juiceshop))
+  ([US](http://shop.spreadshirt.com/juiceshop)/[DE](http://shop.spreadshirt.de/juiceshop))
 
