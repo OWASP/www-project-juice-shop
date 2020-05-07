@@ -4,3 +4,4 @@ plugins:
 repository: OWASP/www-project-juice-shop
 code_user: bkimminich
 code_repo: juice-shop
+altfooter: true
