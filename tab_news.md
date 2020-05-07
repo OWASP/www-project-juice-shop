@@ -1,6 +1,7 @@
 ---
 title: News
 layout:  null
+altfooter: true
 tab: true
 order: 5
 tags: juiceshop
@@ -44,4 +45,3 @@ tags: juiceshop
 * Participate in
   [Google Summer of Code 2020](https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas#owasp-juice-shop)
   with one student project
-

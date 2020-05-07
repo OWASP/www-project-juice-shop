@@ -1,6 +1,7 @@
 ---
 title: Supporters
 layout:  null
+altfooter: true
 tab: true
 order: 8
 tags: juiceshop

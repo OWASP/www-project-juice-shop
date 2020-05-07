@@ -1,6 +1,7 @@
 ---
 title: Tutorials
 layout:  null
+altfooter: true
 tab: true
 order: 3
 tags: juiceshop
@@ -41,4 +42,3 @@ site.data.challenges.size | minus: tutorials.size }} challenges.
   </tr>
   {% endfor %}
 </table>
-

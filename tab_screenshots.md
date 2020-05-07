@@ -1,6 +1,7 @@
 ---
 title: Screenshots
 layout:  null
+altfooter: true
 tab: true
 order: 4
 tags: juiceshop

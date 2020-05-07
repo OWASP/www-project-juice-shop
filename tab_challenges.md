@@ -1,6 +1,7 @@
 ---
 title: Challenges
 layout:  null
+altfooter: true
 tab: true
 order: 2
 tags: juiceshop

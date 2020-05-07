@@ -1,6 +1,7 @@
 ---
 title: Features
 layout:  null
+altfooter: true
 tab: true
 order: 1
 tags: juiceshop

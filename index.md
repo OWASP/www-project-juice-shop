@@ -1,5 +1,6 @@
 ---
 layout: col-sidebar
+altfooter: true
 title: OWASP Juice Shop
 tags: juiceshop
 level: 4
