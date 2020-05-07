@@ -11,7 +11,7 @@ tags: juiceshop
 
 {% assign tutorials = site.data.challenges | where_exp: "item", "item.tutorial != null" | sort: "tutorial.order" %}
 
-![Juicy Bot](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/juicyBot_MedicalMask.png)
+![Juicy Bot](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuicyBot_MedicalMask.png)
 
 Click on a link in the table below to launch a <a
 href="https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor"
