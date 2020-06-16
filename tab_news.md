@@ -20,11 +20,6 @@ tags: juiceshop
 * 2020-06-06T12:17:38Z: juice-shop [`v11.0.1`](https://github.com/bkimminich/juice-shop/releases/tag/v11.0.1)
 * 2020-05-27T19:12:29Z: juice-shop [`v11.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v11.0.0)
 * 2020-05-14T07:46:35Z: juice-shop [`v10.3.2`](https://github.com/bkimminich/juice-shop/releases/tag/v10.3.2)
-* 2020-05-10T16:20:50Z: juice-shop [`v10.3.1`](https://github.com/bkimminich/juice-shop/releases/tag/v10.3.1)
-* 2020-05-03T08:27:17Z: juice-shop [`v10.3.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.3.0)
-* 2020-04-23T16:22:19Z: juice-shop [`v10.2.1`](https://github.com/bkimminich/juice-shop/releases/tag/v10.2.1)
-* 2020-04-22T14:56:33Z: juice-shop [`v10.2.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.2.0)
-* 2020-03-28T09:56:06Z: juice-shop [`v10.1.0`](https://github.com/bkimminich/juice-shop/releases/tag/v10.1.0)
 
 ### CTF Extension
 
@@ -35,12 +30,6 @@ tags: juiceshop
 
 <!-- next:juice-shop-ctf -->
 * 2020-05-03T08:25:23Z: juice-shop-ctf [`v8.1.0`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.1.0)
-* 24.03.20: juice-shop-ctf
-  [`v8.0.2`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.0.2)
-* 23.03.20: juice-shop-ctf
-  [`v8.0.1`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.0.1)
-* 09.03.20: juice-shop-ctf
-  [`v8.0.0`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.0.0)
 
 ## Roadmap
 
