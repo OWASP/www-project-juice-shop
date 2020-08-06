@@ -31,6 +31,7 @@ tags: juiceshop
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop-ctf.svg)](https://registry.hub.docker.com/u/bkimminich/juice-shop-ctf/)
 
 <!-- next:juice-shop-ctf -->
+* 2020-08-06T10:57:31Z: juice-shop-ctf [`v8.1.1`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.1.1)
 * 2020-05-03T08:25:23Z: juice-shop-ctf [`v8.1.0`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.1.0)
 
 ## Roadmap
