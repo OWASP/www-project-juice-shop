@@ -17,11 +17,13 @@ tags: juiceshop
 
 ### Top Supporters
 
+[![Wild West Hackin' Fest](assets/images/wwhf_header.png)](https://wildwesthackinfest.com/)
 [![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
 [![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
 
 #### All Corporate Supporters
 
+* [Wild West Hackin' Fest](https://wildwesthackinfest.com/)<sup>(2020)</sup> <!-- >=1000€ @ 03.08.2020 -->
 * [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!-- >=1000€ @ 26.08.2018 & 20.09.2019 -->
 * [secuvera](https://www.secuvera.de/)<sup>(2018-2019)</sup>
 * [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019)</sup> <!-- >=1000€ @ 19.12.2019 -->
