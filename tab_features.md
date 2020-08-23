@@ -32,9 +32,9 @@ tags: juiceshop
 * **CTF-support**: Challenge notifications optionally contain a flag
   code for your own
   [Capture-The-Flag events](https://github.com/bkimminich/juice-shop-ctf)
-* **Integration**: Integrate with your own learning management system
-  via WebHook or consume challenge information directly via API or file
-  import
+* **Interoperability**: Integrate with your own training systems via
+  WebHook, monitor the extensive metrics or consume challenge
+  information directly via API or file import
 
 ## Application Architecture
 
