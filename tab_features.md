@@ -16,25 +16,43 @@ tags: juiceshop
   [node.js](http://nodejs.org),
   [Docker](https://www.docker.com) and
   [Vagrant](https://www.vagrantup.com/downloads.html) to run on
-  Windows/Mac/Linux
-* **Self-contained**: Additional dependencies are pre-packaged or will
-  be resolved and downloaded automatically
-* **Beginner-friendly**: Hacking Instructor tutorial scripts guide users
-  through several of the easier challenges while explaining the
+  Windows/Mac/Linux as well as all major cloud providers
+* **Self-contained**: Additional dependencies are                                          E
+  [pre-packaged](https://github.com/bkimminich/juice-shop/releases/latest)
+  or will be resolved and downloaded automatically
+* **Beginner-friendly**:
+  [Hacking Instructor](https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor)
+  scripts with optional
+  [tutorial mode](https://pwning.owasp-juice.shop/part1/challenges.html#tutorial-mode)
+  guide newcomers through several challenges while explaining the
   underlying vulnerabilities
-* **Gamification**: The application notifies you on solved challenges
-  and keeps track of successfully exploited vulnerabilities on a Score
-  Board
-* **Self-healing**: The simple SQLite and MarsDB databases are wiped and
-  repopulated from scratch on every server startup
-* **Re-branding**: Fully customizable in business context and look &
-  feel to your own corporate or customer requirements
+* **Gamification**: The application
+  [notifies you on solved challenges](https://pwning.owasp-juice.shop/part1/challenges.html#success-notifications)
+  and keeps track of successfully exploited vulnerabilities on a
+  [Score
+  Board](https://pwning.owasp-juice.shop/part1/challenges.html#the-score-board)
+* **Self-healing**:
+  [Wiped clean and
+  repopulated from scratch](https://pwning.owasp-juice.shop/part1/running.html#self-healing-feature)
+  on every server startup while
+  [automatically persisting progress in your browser](https://pwning.owasp-juice.shop/part1/challenges.html#automatic-saving-and-restoring-hacking-progress)
+  or via
+  [manual local backup](https://pwning.owasp-juice.shop/part1/challenges.html#manual-progress-and-settings-backup)
+* **Re-branding**:
+  [Fully customizable](https://pwning.owasp-juice.shop/part1/customization.html)
+  in business context and look & feel to your own corporate or customer
+  requirements
 * **CTF-support**: Challenge notifications optionally contain a flag
   code for your own
-  [Capture-The-Flag events](https://github.com/bkimminich/juice-shop-ctf)
+  [Capture-The-Flag events](https://pwning.owasp-juice.shop/part1/ctf.html)
 * **Interoperability**: Integrate with your own training systems via
-  WebHook, monitor the extensive metrics or consume challenge
-  information directly via API or file import
+  [WebHook](https://pwning.owasp-juice.shop/appendix/integration.html#challenge-solution-webhook),
+  monitor the
+  [extensive metrics](https://pwning.owasp-juice.shop/appendix/monitoring.html)
+  or consume challenge information directly via
+  [API](https://pwning.owasp-juice.shop/appendix/integration.html#challenges-api)
+  or
+  [file import](https://pwning.owasp-juice.shop/appendix/integration.html#challenge-declaration-file)
 
 ## Application Architecture
 
