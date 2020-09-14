@@ -49,7 +49,9 @@ tags: juiceshop
 ![GitHub issues by-label](https://img.shields.io/github/issues/bkimminich/juice-shop/help%20wanted.svg)
 ![GitHub issues by-label](https://img.shields.io/github/issues/bkimminich/juice-shop/good%20first%20issue.svg)
 
+
 * Conclude the unfinished
   [UI facelifting towards Material Design](https://github.com/bkimminich/juice-shop/issues/1276)
-  look & feel and usability
+* Battle test and refine
+  [challenge solution Webhook](https://github.com/bkimminich/pwning-juice-shop/blob/develop/appendix/integration.md#challenge-solution-webhook)
 
