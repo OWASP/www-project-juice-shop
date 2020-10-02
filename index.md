@@ -1,4 +1,4 @@
-# OWASP Juice Shop<\n>
+# OWASP Juice Shop
 layout: col-sidebar
 altfooter: true
 title: OWASP Juice Shop
