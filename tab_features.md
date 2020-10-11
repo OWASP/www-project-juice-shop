@@ -17,7 +17,7 @@ tags: juiceshop
   [Docker](https://www.docker.com) and
   [Vagrant](https://www.vagrantup.com/downloads.html) to run on
   Windows/Mac/Linux as well as all major cloud providers
-* **Self-contained**: Additional dependencies are                                          E
+* **Self-contained**: Additional dependencies are
   [pre-packaged](https://github.com/bkimminich/juice-shop/releases/latest)
   or will be resolved and downloaded automatically
 * **Beginner-friendly**:

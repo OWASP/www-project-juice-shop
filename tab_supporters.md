@@ -18,7 +18,6 @@ tags: juiceshop
 ### Top Supporters
 
 [![Wild West Hackin' Fest](assets/images/wwhf_header.png)](https://wildwesthackinfest.com/)
-[![Denim Group](assets/images/300px-Denim-group_trans.png)](http://www.denimgroup.com/)
 [![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
 
 #### All Corporate Supporters
