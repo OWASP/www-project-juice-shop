@@ -16,19 +16,16 @@ tags: juiceshop
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://hub.docker.com/r/bkimminich/juice-shop)
 
 <!-- next:juice-shop -->
-* 2020-12-19T22:44:26Z: juice-shop [`v12.3.0`](https://github.com/bkimminich/juice-shop/releases/tag/v12.3.0)
-* 2020-12-11T15:34:34Z: juice-shop [`v12.2.1`](https://github.com/bkimminich/juice-shop/releases/tag/v12.2.1)
-* 2020-12-10T17:37:48Z: juice-shop [`v12.2.0`](https://github.com/bkimminich/juice-shop/releases/tag/v12.2.0)
+* 2020-12-19T22:44:26Z: juice-shop
+  [`v12.3.0`](https://github.com/bkimminich/juice-shop/releases/tag/v12.3.0)
+* 2020-12-11T15:34:34Z: juice-shop
+  [`v12.2.1`](https://github.com/bkimminich/juice-shop/releases/tag/v12.2.1)
+* 2020-12-10T17:37:48Z: juice-shop
+  [`v12.2.0`](https://github.com/bkimminich/juice-shop/releases/tag/v12.2.0)
 * 2020-11-05T12:29:00Z: juice-shop
   [`v12.1.1`](https://github.com/bkimminich/juice-shop/releases/tag/v12.1.1)
 * 2020-10-03T14:09:30Z: juice-shop
   [`v12.1.0`](https://github.com/bkimminich/juice-shop/releases/tag/v12.1.0)
-* 2020-09-14T08:47:25Z: juice-shop
-  [`v12.0.2`](https://github.com/bkimminich/juice-shop/releases/tag/v12.0.2)
-* 2020-09-10T06:35:49Z: juice-shop
-  [`v12.0.1`](https://github.com/bkimminich/juice-shop/releases/tag/v12.0.1)
-* 2020-09-09T13:53:32Z: juice-shop
-  [`v12.0.0`](https://github.com/bkimminich/juice-shop/releases/tag/v12.0.0)
 
 ### CTF Extension
 
@@ -38,7 +35,8 @@ tags: juiceshop
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop-ctf.svg)](https://hub.docker.com/r/bkimminich/juice-shop-ctf)
 
 <!-- next:juice-shop-ctf -->
-* 2020-12-14T19:43:09Z: juice-shop-ctf [`v8.1.3`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.1.3)
+* 2020-12-14T19:43:09Z: juice-shop-ctf
+  [`v8.1.3`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.1.3)
 * 2020-10-11T21:21:47Z: juice-shop-ctf
   [`v8.1.2`](https://github.com/bkimminich/juice-shop-ctf/releases/tag/v8.1.2)
 * 2020-08-06T10:57:31Z: juice-shop-ctf
