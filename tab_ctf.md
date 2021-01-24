@@ -3,7 +3,7 @@ title: CTF
 layout:  null
 altfooter: true
 tab: true
-order: 6
+order: 5
 tags: juiceshop
 ---
 

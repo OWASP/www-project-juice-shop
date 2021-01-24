@@ -3,7 +3,7 @@ title: News
 layout:  null
 altfooter: true
 tab: true
-order: 5
+order: 4
 tags: juiceshop
 ---
 
