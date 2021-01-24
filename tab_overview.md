@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Overview
 layout:  null
 altfooter: true
 tab: true
@@ -53,6 +53,18 @@ tags: juiceshop
   [API](https://pwning.owasp-juice.shop/appendix/integration.html#challenges-api)
   or
   [file import](https://pwning.owasp-juice.shop/appendix/integration.html#challenge-declaration-file)
+
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot01.png)
+<br><br>
+![Screenshot 2](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot02.png)
+<br><br>
+![Screenshot 3](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot03.png)
+<br><br>
+![Screenshot 4](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot04.png)
+<br><br>
+![Screenshot 5](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot05.png)
 
 ## Application Architecture
 

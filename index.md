@@ -49,18 +49,6 @@ which can be reverse-translated word by word into "juice shop". Hence
 the project name. That the initials "JS" match with those of
 "JavaScript" was purely coincidental!_
 
-## Screenshots
-
-![Screenshot 1](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot01.png)
-<br><br>
-![Screenshot 2](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot02.png)
-<br><br>
-![Screenshot 3](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot03.png)
-<br><br>
-![Screenshot 4](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot04.png)
-<br><br>
-![Screenshot 5](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot05.png)
-
 ## Contributors
 
 [![GitHub contributors](https://img.shields.io/github/contributors/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/graphs/contributors)
