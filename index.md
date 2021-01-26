@@ -49,6 +49,24 @@ which can be reverse-translated word by word into "juice shop". Hence
 the project name. That the initials "JS" match with those of
 "JavaScript" was purely coincidental!_
 
+## Testimonials
+
+> [The most trustworthy online shop out there.](https://twitter.com/dschadow/status/706781693504589824)
+> (
+> [@dschadow](https://github.com/dschadow)) —
+> [The best juice shop on the whole internet!](https://twitter.com/shehackspurple/status/907335357775085568)
+> (
+> [@shehackspurple](https://twitter.com/shehackspurple)) —
+> [Actually the most bug-free vulnerable application in existence!](https://youtu.be/TXAztSpYpvE?t=26m35s)
+> (
+> [@vanderaj](https://twitter.com/vanderaj)) —
+> [First you 😂😂then you 😢](https://twitter.com/kramse/status/1073168529405472768)
+> (
+> [@kramse](https://twitter.com/kramse)) —
+> [But this doesn't have anything to do with juice.](https://twitter.com/coderPatros/status/1199268774626488320)
+> (
+> [@coderPatros' wife](https://twitter.com/coderPatros))
+
 ## Contributors
 
 [![GitHub contributors](https://img.shields.io/github/contributors/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/graphs/contributors)
