@@ -1,6 +1,6 @@
 ### Leaders
 
-* [Björn Kimminich](mailto:bjoern.kimminich@owasp.org)
+* [Bjoern Kimminich](mailto:bjoern.kimminich@owasp.org)
 
 ![Bjoern's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkimminich&show_icons=true)
 
