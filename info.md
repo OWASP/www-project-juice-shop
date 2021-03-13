@@ -37,7 +37,7 @@
 
 * Chat ([Gitter](https://gitter.im/bkimminich/juice-shop)/[Matrix](https://matrix.to/#/#bkimminich_juice-shop:gitter.im))
 * [Subreddit](https://www.reddit.com/r/owasp_juiceshop)
-* [Slack Channel](https://owasp.slack.com/messages/project-juiceshop)
+* [Slack Channel](https://owasp.slack.com/messages/project-juiceshop) ([Self-registration](https://owasp.org/slack/invite))
 * [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/juice-shop-project)
 
 ### Social Media
