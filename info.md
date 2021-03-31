@@ -1,5 +1,5 @@
 <p style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">
-Join the first ever Juice Shop-thened Virtual Escape Room event by OWASP on Apr 9th 2021! <a href="~" target="_blank"><i class='fas fa-door-open'></i> Click here for more information and registration!</a>
+Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP on Apr 9th 2021! <a href="~" target="_blank"><i class='fas fa-door-open'></i> Click here for more information and registration!</a>
 </p>
 
 ### Project Information
