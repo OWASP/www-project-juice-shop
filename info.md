@@ -1,3 +1,7 @@
+<p style="border: 2px solid #E64A19; border-radius: 5px; font-size: 0.7em; padding: 2px;">
+Join the first ever Juice Shop-thened Virtual Escape Room event by OWASP on Apr 9th 2021! <a href="~" target="_blank"><i class='fas fa-door-open'></i> Click here for more information and registration!</a>
+</p>
+
 ### Project Information
 
 * <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
