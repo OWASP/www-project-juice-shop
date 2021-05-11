@@ -45,6 +45,10 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 * [Slack Channel](https://owasp.slack.com/messages/project-juiceshop) ([Self-registration](https://owasp.org/slack/invite))
 * [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/juice-shop-project)
 
+### Statistics
+
+* [Daily Project Stats](https://stats.owasp-juice.shop)
+
 ### Social Media
 
 * [Twitter](https://twitter.com/owasp_juiceshop)
