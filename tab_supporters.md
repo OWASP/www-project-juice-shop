@@ -55,8 +55,8 @@ months._</small></small>
 
 #### All Corporate-sponsored Code Contributions
 
-* [#1221](https://github.com/bkimminich/juice-shop/pull/1221),
-  [#1356](https://github.com/bkimminich/juice-shop/pull/1356):
+* [#1221](https://github.com/juice-shop/juice-shop/pull/1221),
+  [#1356](https://github.com/juice-shop/juice-shop/pull/1356):
   [Panasonic Information Systems Company Europe](https://application.job.panasonic.eu/data/ruP0pHQvHrGZJKvL/rc.php?nav=jobsearch&custval12=ite&lang=EN&custval11=PBSEU_GER)<sup>(2019-2020)</sup>
 
 <small><small>_In order to be recognized as a "Corporate-sponsored Code

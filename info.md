@@ -22,21 +22,21 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 ### Installation
 
-* [From Source](https://github.com/bkimminich/juice-shop#from-sources)
+* [From Source](https://github.com/juice-shop/juice-shop#from-sources)
 * Packaged
-  ([GitHub](https://github.com/bkimminich/juice-shop/releases/)/[SourceForge](https://sourceforge.net/projects/juice-shop/files/))
+  ([GitHub](https://github.com/juice-shop/juice-shop/releases/)/[SourceForge](https://sourceforge.net/projects/juice-shop/files/))
 * [Docker Image](https://hub.docker.com/r/bkimminich/juice-shop)
 
 ### Sources
 
-* [GitHub](https://github.com/bkimminich/juice-shop)
+* [GitHub](https://github.com/juice-shop/juice-shop)
 * [CTF Extension (GitHub)](https://github.com/juice-shop/juice-shop-ctf)
 * [Crowdin I18N](https://crowdin.com/project/owasp-juice-shop)
 
 ### Documentation
 
 * [Online Demo](https://juice-shop.herokuapp.com/)
-* [Introduction Slides](http://bkimminich.github.io/juice-shop)
+* [Introduction Slides](https://juice-shop.github.io/juice-shop)
 * Companion Guide
   ([LeanPub](https://leanpub.com/juice-shop)/[Online](https://pwning.owasp-juice.shop))
 

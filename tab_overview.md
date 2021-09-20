@@ -10,7 +10,7 @@ tags: juiceshop
 ## Main Selling Points
 
 * **Free and Open source**: Licensed under the
-  [MIT license](https://github.com/bkimminich/juice-shop/blob/master/LICENSE)
+  [MIT license](https://github.com/juice-shop/juice-shop/blob/master/LICENSE)
   with no hidden costs or caveats
 * **Easy-to-install**: Choose between
   [node.js](http://nodejs.org),
@@ -18,7 +18,7 @@ tags: juiceshop
   [Vagrant](https://www.vagrantup.com/downloads.html) to run on
   Windows/Mac/Linux as well as all major cloud providers
 * **Self-contained**: Additional dependencies are
-  [pre-packaged](https://github.com/bkimminich/juice-shop/releases/latest)
+  [pre-packaged](https://github.com/juice-shop/juice-shop/releases/latest)
   or will be resolved and downloaded automatically
 * **Beginner-friendly**:
   [Hacking Instructor](https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor)
@@ -56,15 +56,15 @@ tags: juiceshop
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot01.png)
+![Screenshot 1](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot01.png)
 <br><br>
-![Screenshot 2](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot02.png)
+![Screenshot 2](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot02.png)
 <br><br>
-![Screenshot 3](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot03.png)
+![Screenshot 3](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot03.png)
 <br><br>
-![Screenshot 4](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot04.png)
+![Screenshot 4](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot04.png)
 <br><br>
-![Screenshot 5](https://raw.githubusercontent.com/bkimminich/juice-shop/master/screenshots/screenshot05.png)
+![Screenshot 5](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot05.png)
 
 ## Application Architecture
 
