@@ -17,8 +17,6 @@ tags: juiceshop
 
 ### Top Supporters
 
-[![Wild West Hackin' Fest](assets/images/wwhf_header.png)](https://wildwesthackinfest.com/)
-
 <small><small>_In order to be recognized as a "Top Supporter" a company
 must have donated $1000 or more a) to OWASP while attributing it to
 Juice Shop or b) as a restricted gift to OWASP Juice Shop in the last 12
