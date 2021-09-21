@@ -45,6 +45,7 @@ tags: juiceshop
 * **CTF-support**: Challenge notifications optionally contain a flag
   code for your own
   [Capture-The-Flag events](https://pwning.owasp-juice.shop/part1/ctf.html)
+* **Coding Challenges**: Over 20 hacking challenges come with an additional [Coding Challenge](https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges) where finding and fixing the responsible code flaw can be trained
 * **Interoperability**: Integrate with your own training systems via
   [WebHook](https://pwning.owasp-juice.shop/appendix/integration.html#challenge-solution-webhook),
   monitor the
