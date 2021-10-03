@@ -55,9 +55,7 @@ tags: juiceshop
 ![GitHub issues by-label](https://img.shields.io/github/issues/juice-shop/juice-shop/help%20wanted.svg)
 ![GitHub issues by-label](https://img.shields.io/github/issues/juice-shop/juice-shop/good%20first%20issue.svg)
 
-
-* Conclude the unfinished
-  [UI facelifting towards Material Design](https://github.com/juice-shop/juice-shop/issues/1276)
-* Battle test and refine
-  [challenge solution Webhook](https://github.com/bkimminich/pwning-juice-shop/blob/develop/appendix/integration.md#challenge-solution-webhook)
-
+* Enhance Coding Challenges with hints, explanations & scoring
+* Convert server-side code base into actual TypeScript
+* Make server compatible with Node.js 16
+* Migrate frontend to Angular 12 or 13
