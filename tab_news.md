@@ -55,7 +55,7 @@ tags: juiceshop
 ![GitHub issues by-label](https://img.shields.io/github/issues/juice-shop/juice-shop/help%20wanted.svg)
 ![GitHub issues by-label](https://img.shields.io/github/issues/juice-shop/juice-shop/good%20first%20issue.svg)
 
-* Enhance Coding Challenges with hints, explanations & scoring
-* Convert server-side code base into actual TypeScript
-* Make server compatible with Node.js 16
-* Migrate frontend to Angular 12 or 13
+{% assign milestones = site.data.roadmap_milestones %}
+{% for milestone in milestones %}
+* {{ milestone }}
+{% endfor %}
