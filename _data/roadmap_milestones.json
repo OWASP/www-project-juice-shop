@@ -1,5 +1,6 @@
 [
-  "Enhance <a href='https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges' target='_blank'>Coding Challenges</a> with hints, explanations & scoring",
+  "Enhance <a href='https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges' target='_blank'>Coding Challenges</a> with scoring and a tutorial",
+  "Introduce smart warning system for code snippet vs. fix option discrepancies after e.g. refactorings",
   "Convert server-side code base into actual TypeScript",
   "Migrate frontend to Angular 12 or 13"
 ]
