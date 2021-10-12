@@ -16,6 +16,7 @@ tags: juiceshop
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://hub.docker.com/r/bkimminich/juice-shop)
 
 <!-- next:juice-shop -->
+* 2021-10-12T21:37:56Z: juice-shop [`v12.10.2`](https://github.com/juice-shop/juice-shop/releases/tag/v12.10.2)
 * 2021-10-11T20:58:58Z: juice-shop [`v12.10.1`](https://github.com/juice-shop/juice-shop/releases/tag/v12.10.1)
 * 2021-10-03T18:17:10Z: juice-shop [`v12.10.0`](https://github.com/juice-shop/juice-shop/releases/tag/v12.10.0)
 * 2021-09-26T19:04:24Z: juice-shop [`v12.9.3`](https://github.com/juice-shop/juice-shop/releases/tag/v12.9.3)
