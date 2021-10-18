@@ -52,3 +52,23 @@ fix from a list. Solve any of the hacking challenges below to enable a button on
 coding challenge:
 <br><br>
 {{ codingChallenges | map: "name" | join: ", " }}
+
+## Mitigation Links
+
+{% assign mitigations = site.data.challenges | group_by:"mitigationUrl" | sort: "name" %}
+
+<table>
+  <tr>
+    <th>Mitigation URL</th>
+    <th>#</th>
+    <th>Challenges</th>
+  </tr>
+  {% for mitigation in mitigations %}
+  <tr>
+    <td style="min-width: 190px"><small><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name }}</a></small></td>
+    <td style="min-width: 60px">{{ mitigation.items.size }}</td>
+    <td><small>{{ mitigation.items | group_by:"name" | sort: "name" | map: "name" | join: ", " }}</small></td>
+  </tr>
+  {% endfor %}
+</table>
+
