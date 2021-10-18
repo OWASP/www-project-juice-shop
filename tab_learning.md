@@ -46,20 +46,9 @@ site.data.challenges.size | minus: tutorials.size }} challenges.
 
 {% assign codingChallenges = site.data.challenges | where_exp: "item", "site.data.snippets.challenges contains item.key" | sort: "name" %}
 
-For {{ codingChallenges.size }} challenges an additional coding challenge is available. In their "Find It" phase they teach
+For {{ codingChallenges.size }} challenges an additional [coding challenge](https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges) is available. In their "Find It" phase they teach
 spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix It" phase the user then chooses the most appropriate
 fix from a list. Solve any of the hacking challenges below to enable a button on the Score Board that launches the corresponding
-coding challenge.
+coding challenge:
 
-<table>
-  <tr>
-    <th>Challenge</th>
-    <th>Category</th>
-  </tr>
-  {% for codingChallenge in codingChallenges %}
-  <tr>
-    <td style="min-width: 190px">{{ codingChallenge.name }}</td>
-    <td style="min-width: 190px">{{ codingChallenge.category }}</td>
-  </tr>
-  {% endfor %}
-</table>
+{{ codingChallenges.items | group_by:"name" | map: "name" | join: ", " }}
