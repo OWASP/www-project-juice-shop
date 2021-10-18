@@ -51,6 +51,15 @@ spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix I
 fix from a list. Solve any of the hacking challenges below to enable a button on the Score Board that launches the corresponding
 coding challenge.
 
-{% for codingChallenge in codingChallenges %}
-* {{ codingChallenge.name }}
-{% endfor %}
+<table>
+  <tr>
+    <th>Challenge</th>
+    <th>Category</th>
+  </tr>
+  {% for tutorial in tutorials %}
+  <tr>
+    <td style="min-width: 190px">{{ codingChallenge.name }}</td>
+    <td style="min-width: 190px">{{ codingChallenge.category }}</td>
+  </tr>
+  {% endfor %}
+</table>
