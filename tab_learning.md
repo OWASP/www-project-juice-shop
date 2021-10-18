@@ -50,5 +50,5 @@ For {{ codingChallenges.size }} challenges an additional [coding challenge](http
 spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix It" phase the user then chooses the most appropriate
 fix from a list. Solve any of the hacking challenges below to enable a button on the Score Board that launches the corresponding
 coding challenge:
-
-{{ codingChallenges.items | group_by:"name" | map: "name" | join: ", " }}
+<br><br>
+{{ codingChallenges | group_by:"name" | map: "name" | join: ", " }}
