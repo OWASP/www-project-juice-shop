@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Learning
 layout:  null
 altfooter: true
 tab: true
@@ -42,3 +42,15 @@ site.data.challenges.size | minus: tutorials.size }} challenges.
   {% endfor %}
 </table>
 
+## Coding Challenges
+
+{% assign codingChallenges = site.data.snippets.challenges %}
+
+For {{ codingChallenges.size }} challenges an additional coding challenge is available. In their "Find It" phase they teach
+spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix It" phase the user then chooses the most appropriate
+fix from a list. Solve any of the hacking challenges below to enable a button on the Score Board that launches the corresponding
+coding challenge.
+
+{% for codingChallenge in codingChallenges %}
+* {{ codingChallenge }}
+{% endfor %}
