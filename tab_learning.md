@@ -44,7 +44,7 @@ site.data.challenges.size | minus: tutorials.size }} challenges.
 
 ## Coding Challenges
 
-{% assign codingChallenges = site.data.snippets.challenges %}
+{% assign codingChallenges = site.data.challenges | where_exp: "item", "site.data.snippets.challenges contains item.key" | sort: "name" %}
 
 For {{ codingChallenges.size }} challenges an additional coding challenge is available. In their "Find It" phase they teach
 spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix It" phase the user then chooses the most appropriate
@@ -52,5 +52,5 @@ fix from a list. Solve any of the hacking challenges below to enable a button on
 coding challenge.
 
 {% for codingChallenge in codingChallenges %}
-* {{ codingChallenge }}
+* {{ codingChallenge.name }}
 {% endfor %}
