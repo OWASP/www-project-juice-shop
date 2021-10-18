@@ -56,7 +56,7 @@ coding challenge.
     <th>Challenge</th>
     <th>Category</th>
   </tr>
-  {% for tutorial in tutorials %}
+  {% for codingChallenge in codingChallenges %}
   <tr>
     <td style="min-width: 190px">{{ codingChallenge.name }}</td>
     <td style="min-width: 190px">{{ codingChallenge.category }}</td>
