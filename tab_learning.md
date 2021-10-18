@@ -57,10 +57,14 @@ coding challenge:
 
 {% assign mitigations = site.data.challenges | group_by:"mitigationUrl" | sort: "name" %}
 
+For many solved challenges links to mitigation techniques are presented on the Score Board by offering a link
+to a corresponding [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/) explaining how to avoid that kind of vulnerability in the first place. The
+following cheat sheets are referred to by OWASP Juice Shop as mitigation links:
+
 <ul>
   {% for mitigation in mitigations %}
     {% if mitigation.name and mitigation.name.size != 0 %}
-      <li><small><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name }}</a></small></li>
+      <li><small><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name | remove: "https://cheatsheetseries.owasp.org/cheatsheets/" | remove: ".html" | replace: "_", " " | capitalize }}</a></small></li>
     {% endif %}
   {% endfor %}
 </ul>
