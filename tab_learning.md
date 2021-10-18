@@ -64,7 +64,7 @@ following cheat sheets are referred to by OWASP Juice Shop as mitigation links:
 <ul>
   {% for mitigation in mitigations %}
     {% if mitigation.name and mitigation.name.size != 0 %}
-      <li><small><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name | remove: "https://cheatsheetseries.owasp.org/cheatsheets/" | remove: ".html" | replace: "_", " " | capitalize }}</a></small></li>
+      <li><small><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name | remove: "https://cheatsheetseries.owasp.org/cheatsheets/" | remove: ".html" | replace: "_", " " }}</a></small></li>
     {% endif %}
   {% endfor %}
 </ul>
