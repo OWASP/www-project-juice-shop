@@ -57,18 +57,8 @@ coding challenge:
 
 {% assign mitigations = site.data.challenges | group_by:"mitigationUrl" | sort: "name" %}
 
-<table>
-  <tr>
-    <th>Mitigation URL</th>
-    <th>#</th>
-    <th>Challenges</th>
-  </tr>
+<ul>
   {% for mitigation in mitigations %}
-  <tr>
-    <td style="min-width: 190px"><small><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name }}</a></small></td>
-    <td style="min-width: 60px">{{ mitigation.items.size }}</td>
-    <td><small>{{ mitigation.items | group_by:"name" | sort: "name" | map: "name" | join: ", " }}</small></td>
-  </tr>
+  <li><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name }}</a></li>
   {% endfor %}
-</table>
-
+</ul>
