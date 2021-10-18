@@ -51,4 +51,4 @@ spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix I
 fix from a list. Solve any of the hacking challenges below to enable a button on the Score Board that launches the corresponding
 coding challenge:
 <br><br>
-{{ codingChallenges | group_by:"name" | map: "name" | join: ", " }}
+{{ codingChallenges | map: "name" | join: ", " }}
