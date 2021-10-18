@@ -59,6 +59,8 @@ coding challenge:
 
 <ul>
   {% for mitigation in mitigations %}
-  <li><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name }}</a></li>
+    {% if mitigation and mitigation.size != 0 %}
+      <li><small><a href="{{ mitigation.name }}" target="_blank">{{ mitigation.name }}</a></small></li>
+    {% endif %}
   {% endfor %}
 </ul>
