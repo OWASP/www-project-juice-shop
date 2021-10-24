@@ -55,7 +55,7 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 * [Twitter](https://twitter.com/owasp_juiceshop)
 * [Facebook](https://www.facebook.com/owasp.juiceshop)
-* [YouTube](http://www.youtube.com/playlist?list=PLV9O4rIovHhO1y8_78GZfMbH6oznyx2g2)
+* [YouTube](https://www.youtube.com/channel/UCjkQ1Y-bxYAqwwD1SyQpBvw/playlists)
 
 ### Merchandise
 
