@@ -40,6 +40,11 @@ site.data.challenges.size | minus: tutorials.size }} challenges.
     </td>
   </tr>
   {% endfor %}
+  <tr>
+    <td style="min-width: 190px"><a href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge=Coding%20Challenges" target="_blank">Coding Challenges</a></td>
+    <td style="min-width: 190px">n/a</td>
+    <td style="min-width: 100px">n/a</td>
+  </tr>
 </table>
 
 ## Coding Challenges
