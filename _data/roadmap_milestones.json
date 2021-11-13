@@ -1,5 +1,4 @@
 [
-  "Enhance <a href='https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges' target='_blank'>Coding Challenges</a> with a <a href='https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor' target='_blank'>Hacking Instructor</a> tutorial",
   "Introduce smart warning system for <a href='https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges' target='_blank'>Coding Challenge</a> snippet vs. fix option discrepancies after e.g. refactorings",
   "Close test automation gaps in server and frontend code base",
   "Convert server-side code base into actual TypeScript",
