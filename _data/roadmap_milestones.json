@@ -1,5 +1,6 @@
 [
   "Introduce smart warning system for <a href='https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges' target='_blank'>Coding Challenge</a> snippet vs. fix option discrepancies after e.g. refactorings",
+  "Move <a href='https://pwning.owasp-juice.shop' target='_blank'>Pwning OWASP Juice Shop</a> eBook away from legacy <code>gitbook</code> format",
   "Close test automation gaps in server and frontend code base",
   "Convert server-side code base into actual TypeScript",
   "Migrate frontend to Angular 12 or 13"
