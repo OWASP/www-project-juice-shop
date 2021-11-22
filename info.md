@@ -3,8 +3,6 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 <a href="https://calltobattle.owasp.org/" target="_blank"><img src="assets/images/escape-room.png"></a>
 </p>-->
 
-[![OWASP 20th Anniversary](assets/images/OWASP 20th Anniversary.jpeg)](https://20thanniversary.owasp.org/)
-
 ### Project Information
 
 * <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
@@ -55,7 +53,7 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 * [Twitter](https://twitter.com/owasp_juiceshop)
 * [Facebook](https://www.facebook.com/owasp.juiceshop)
-* [YouTube](http://www.youtube.com/playlist?list=PLV9O4rIovHhO1y8_78GZfMbH6oznyx2g2)
+* [YouTube](https://www.youtube.com/channel/UCjkQ1Y-bxYAqwwD1SyQpBvw/playlists)
 
 ### Merchandise
 

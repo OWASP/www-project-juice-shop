@@ -40,18 +40,41 @@ site.data.challenges.size | minus: tutorials.size }} challenges.
     </td>
   </tr>
   {% endfor %}
+  <tr>
+    <td style="min-width: 190px"><a href="https://demo.owasp-juice.shop/#/hacking-instructor?challenge=Coding%20Challenges" target="_blank">Coding Challenges</a></td>
+    <td style="min-width: 190px">n/a</td>
+    <td style="min-width: 100px">n/a</td>
+  </tr>
 </table>
 
 ## Coding Challenges
 
-{% assign codingChallenges = site.data.challenges | where_exp: "item", "site.data.snippets.challenges contains item.key" | sort: "name" %}
+{% assign categories = site.data.challenges | where_exp: "item", "site.data.snippets.challenges contains item.key" | group_by:"category" | sort: "name" %}
 
-For {{ codingChallenges.size }} challenges an additional [coding challenge](https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges) is available. In their "Find It" phase they teach
+For {{ site.data.snippets.challenges.size }} challenges an additional [coding challenge](https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges) is available. In their "Find It" phase they teach
 spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix It" phase the user then chooses the most appropriate
 fix from a list. Solve any of the hacking challenges below to enable a button on the Score Board that launches the corresponding
 coding challenge:
 <br><br>
-{{ codingChallenges | map: "name" | join: ", " }}
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>#</th>
+    <th>Challenges</th>
+  </tr>
+  {% for category in categories %}
+  <tr>
+    <td style="min-width: 190px">{{ category.name }}</td>
+    <td style="min-width: 60px">{{ category.items.size }}</td>
+    <td><small>{{ category.items | group_by:"name" | sort: "name" | map: "name" | join: ", " }}</small></td>
+  </tr>
+  {% endfor %}
+  <tr>
+    <td><strong>Total Σ</strong></td>
+    <td colspan="2">{{ site.data.snippets.challenges.size }}</td>
+  </tr>
+</table>
 
 ## Mitigation Links
 

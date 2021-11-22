@@ -1,5 +1,6 @@
 [
   "Introduce <a href='https://github.com/juice-shop/juice-shop/issues/1720' target='_blank'>smart warning system for code snippet vs. fix option discrepancies</a> after e.g. refactorings",
+  "Move <a href='https://pwning.owasp-juice.shop' target='_blank'>Pwning OWASP Juice Shop</a> eBook away from legacy <code>gitbook</code> format",
   "Convert server-side code base into actual TypeScript",
   "Bring <a href='https://codeclimate.com/github/juice-shop/juice-shop' target='_blank'>overall test coverage</a> back to 90%+"
 ]
