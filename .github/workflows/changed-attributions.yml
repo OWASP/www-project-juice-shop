@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
     paths: 
-      - '_data/ow_attributions.yml'
+      - '_data/ow_attributions.json'
 
 jobs:
   slackNotification:
