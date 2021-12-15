@@ -17,6 +17,8 @@ tags: juiceshop
 
 ### Top Supporters
 
+[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
+
 <small><small>_In order to be recognized as a "Top Supporter" a company
 must have donated $1000 or more a) to OWASP while attributing it to
 Juice Shop or b) as a restricted gift to OWASP Juice Shop in the last 12
@@ -24,14 +26,14 @@ months._</small></small>
 
 #### All Corporate Supporters
 
+* [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019+2021)</sup>
+  <!-- >=1000€ @ 19.12.2019 & 10.12.2021 -->
 * [RandoriSec](https://randorisec.fr/)<sup>(2021)</sup>
 * [Wild West Hackin' Fest](https://wildwesthackinfest.com/)<sup>(2020)</sup>
   <!-- >=1000€ @ 03.08.2020 -->
 * [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!--
   \>=1000€ @ 26.08.2018 & 20.09.2019 -->
 * [secuvera](https://www.secuvera.de/)<sup>(2018-2019)</sup>
-* [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019)</sup>
-  <!-- >=1000€ @ 19.12.2019 -->
 * [PlexTrac](https://plextrac.com)<sup>(2019)</sup>
 * [Silpion](https://silpion.de)<sup>(2019)</sup>
 * [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- >=1000€ @
