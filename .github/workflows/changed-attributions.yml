@@ -19,4 +19,4 @@ jobs:
           SLACK_USERNAME: 'Donation Alert'
           SLACK_ICON_EMOJI: ':money_with_wings:'
           SLACK_FOOTER: ''
-          MSG_MINIMAL: commit
+          MSG_MINIMAL: commit,actions url
