@@ -29,6 +29,6 @@ server in a matter of minutes.
 The following open source CTF frameworks are supported by
 `juice-shop-ctf-cli`:
 
-* [CTFd 2.x](https://github.com/CTFd/CTFd/releases/tag/2.5.0)
+* [CTFd](https://github.com/CTFd/CTFd)
 * [FBCTF](https://github.com/facebook/fbctf)
 * [RootTheBox](https://github.com/moloch--/RootTheBox)
