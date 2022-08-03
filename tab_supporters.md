@@ -26,6 +26,7 @@ months._</small></small>
 
 #### All Corporate Supporters
 
+* [Heyhack](https://heyhack.com)<sup>(2022)</sup>
 * [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019+2021)</sup>
   <!-- >=1000€ @ 19.12.2019 & 10.12.2021 -->
 * [RandoriSec](https://randorisec.fr/)<sup>(2021)</sup>
