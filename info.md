@@ -5,7 +5,7 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 ### Project Information
 
-* <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
+* <i class="fas fa-flag" style="font-size: 1.3em; color:#38a047;"></i>
   <span style="font-size: 1.3em;">Flagship Project</span>
 
 #### Classification
