@@ -17,7 +17,7 @@ tags: juiceshop
 
 ### Top Supporters
 
-[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
+[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se) <!-- logo expiration: 10.12.2022 -->
 
 <small><small>_In order to be recognized as a "Top Supporter" a company
 must have donated $1000 or more a) to OWASP while attributing it to
@@ -42,9 +42,7 @@ months._</small></small>
   30.11.2017 -->
 * [eSailors](https://www.esailors.de/)<sup>(2016)</sup> <!-- >=1000€ @
   31.07.2017 -->
-* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup>
-
-  <!-- >=1000€ @ 26.09.2016 -->
+* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup> <!-- >=1000€ @ 26.09.2016 -->
 
 #### All Individual Supporters
 
