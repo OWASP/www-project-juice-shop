@@ -52,6 +52,7 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 ### Social Media
 
 * [Twitter](https://twitter.com/owasp_juiceshop)
+* <a rel="me" href="https://fosstodon.org/@owasp_juiceshop">Mastodon</a>
 * [Facebook](https://www.facebook.com/owasp.juiceshop)
 * [YouTube](https://www.youtube.com/channel/UCjkQ1Y-bxYAqwwD1SyQpBvw/playlists)
 
