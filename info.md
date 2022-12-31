@@ -58,7 +58,7 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 ### Merchandise
 
+* [OpenSea](https://opensea.io/collection/juice-shop)
 * [StickerYou](https://www.stickeryou.com/products/owasp-juice-shop/794)
 * SpreadShirt
   ([US](http://shop.spreadshirt.com/juiceshop)/[DE](http://shop.spreadshirt.de/juiceshop))
-

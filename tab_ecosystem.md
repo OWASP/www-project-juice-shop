@@ -36,6 +36,16 @@ written and performed by
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+## Official NFT Collection
+
+Official [Juice Shop NFT Collection](https://opensea.io/collection/juice-shop) of various artwork and avatars in all their (often pixelated) beauty, e.g. 
+
+<nft-card
+contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+tokenId="69157691162327567172870131924536492302815108437750715040309091511341588414514">
+</nft-card>
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
 ## Endorsed Open Source Projects
 
 | Project                                                                                                                                                                    | Description                                                                                                                                                                           |
