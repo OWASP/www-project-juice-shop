@@ -17,8 +17,8 @@ overview of the vulnerabilities found in the application including hints
 how to spot and exploit them. In the appendix you will even find
 complete step-by-step solutions to every challenge.
 
-[![Pwning OWASP Juice Shop cover](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
-[![Pwning OWASP Juice Shop back cover](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/back_small.jpg)](https://leanpub.com/juice-shop)
+[![Pwning OWASP Juice Shop cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
+[![Pwning OWASP Juice Shop back cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/back_small.jpg)](https://leanpub.com/juice-shop)
 
 The ebook is published under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -39,7 +39,7 @@ written and performed by
 ## Endorsed Open Source Projects
 
 | Project                                                                                                                                                                    | Description                                                                                                                                                                           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![MultiJuicer Logo](https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-cover.svg?sanitize=true)](https://github.com/iteratec/multi-juicer) | Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster                                                  |
 | <https://github.com/wurstbrot/shake-logger>                                                                                                                                | Demo to show the dangers of XSS holes combined with bad Content Security Policy using Harlem Shake and a Keylogger against the Juice Shop ([📺YouTube](https://youtu.be/Msi52Kicb-w)) |
 

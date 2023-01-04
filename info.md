@@ -5,7 +5,7 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 ### Project Information
 
-* <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
+* <i class="fas fa-flag" style="font-size: 1.3em; color:#38a047;"></i>
   <span style="font-size: 1.3em;">Flagship Project</span>
 
 #### Classification
@@ -52,12 +52,13 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 ### Social Media
 
 * [Twitter](https://twitter.com/owasp_juiceshop)
+* <a rel="me" href="https://fosstodon.org/@owasp_juiceshop">Mastodon</a>
 * [Facebook](https://www.facebook.com/owasp.juiceshop)
 * [YouTube](https://www.youtube.com/channel/UCjkQ1Y-bxYAqwwD1SyQpBvw/playlists)
 
 ### Merchandise
 
+* [OpenSea](https://opensea.io/collection/juice-shop)
 * [StickerYou](https://www.stickeryou.com/products/owasp-juice-shop/794)
 * SpreadShirt
   ([US](http://shop.spreadshirt.com/juiceshop)/[DE](http://shop.spreadshirt.de/juiceshop))
-

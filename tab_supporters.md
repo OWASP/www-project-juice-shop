@@ -17,7 +17,7 @@ tags: juiceshop
 
 ### Top Supporters
 
-[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se)
+[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se) <!-- logo expiration: 10.12.2022 -->
 
 <small><small>_In order to be recognized as a "Top Supporter" a company
 must have donated $1000 or more a) to OWASP while attributing it to
@@ -26,6 +26,8 @@ months._</small></small>
 
 #### All Corporate Supporters
 
+* [Heyhack](https://heyhack.com)<sup>(2022)</sup>
+* [Schutzwerk](https://www.schutzwerk.com/)<sup>(2022)</sup>
 * [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019+2021)</sup>
   <!-- >=1000€ @ 19.12.2019 & 10.12.2021 -->
 * [RandoriSec](https://randorisec.fr/)<sup>(2021)</sup>
@@ -40,9 +42,7 @@ months._</small></small>
   30.11.2017 -->
 * [eSailors](https://www.esailors.de/)<sup>(2016)</sup> <!-- >=1000€ @
   31.07.2017 -->
-* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup>
-
-  <!-- >=1000€ @ 26.09.2016 -->
+* [XING](https://corporate.xing.com/en/about-xing/security/)<sup>(2016)</sup> <!-- >=1000€ @ 26.09.2016 -->
 
 #### All Individual Supporters
 
@@ -66,7 +66,7 @@ Foundation._</small></small>
 
 #### LeanPub Royalties
 
-[![Pwning OWASP Juice Shop](https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
+[![Pwning OWASP Juice Shop](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
 
 $1,251.68 of royalties from
 [Björn Kimminich](https://kimminich.de)'s eBook have been donated to the
