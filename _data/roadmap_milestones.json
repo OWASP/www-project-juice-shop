@@ -1,5 +1,7 @@
 [
+  "Rennovate the Score Board for best possible user experience (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#score-board-uiux' target='_blank'>GSoC 2023 Idea</a>)",
+  "Move <a href='https://pwning.owasp-juice.shop' target='_blank'>Pwning OWASP Juice Shop</a> eBook away from legacy <code>gitbook</code> (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#companion-guide-tech-stack' target='_blank'>GSoC 2023 Idea</a>)",
+  "Add Web3 specific hacking and coding challenges (<a href='https://github.com/juice-shop/juice-shop/issues/1946' target='_blank'>GSoC 2023 Idea</a>)",
   "Introduce security metrics for Prometheus and Grafana monitoring, e.g. on CAPTCHAs and Rate Limiting",
-  "Bring <a href='https://codeclimate.com/github/juice-shop/juice-shop' target='_blank'>overall test coverage</a> back to 90%+",
-  "Move <a href='https://pwning.owasp-juice.shop' target='_blank'>Pwning OWASP Juice Shop</a> eBook away from legacy <code>gitbook</code> format"
+  "Bring <a href='https://codeclimate.com/github/juice-shop/juice-shop' target='_blank'>overall test coverage</a> back over 90%+"
 ]
