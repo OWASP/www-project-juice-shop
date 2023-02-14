@@ -24,11 +24,6 @@ tags: juiceshop
 * 2022-08-24T08:42:14Z: juice-shop [`v14.2.0`](https://github.com/juice-shop/juice-shop/releases/tag/v14.2.0)
 * 2022-07-04T16:02:07Z: juice-shop [`v14.1.1`](https://github.com/juice-shop/juice-shop/releases/tag/v14.1.1)
 * 2022-07-03T20:56:12Z: juice-shop [`v14.1.0`](https://github.com/juice-shop/juice-shop/releases/tag/v14.1.0)
-* 2022-05-22T12:59:21Z: juice-shop [`v14.0.1`](https://github.com/juice-shop/juice-shop/releases/tag/v14.0.1)
-* 2022-05-07T15:50:38Z: juice-shop [`v14.0.0`](https://github.com/juice-shop/juice-shop/releases/tag/v14.0.0)
-* 2022-03-29T17:02:44Z: juice-shop [`v13.3.0`](https://github.com/juice-shop/juice-shop/releases/tag/v13.3.0)
-* 2022-02-08T22:42:32Z: juice-shop [`v13.2.2`](https://github.com/juice-shop/juice-shop/releases/tag/v13.2.2)
-* 2022-01-31T21:39:31Z: juice-shop [`v13.2.1`](https://github.com/juice-shop/juice-shop/releases/tag/v13.2.1)
 
 ### CTF Extension
 
@@ -43,11 +38,7 @@ tags: juiceshop
 * 2022-07-31T20:52:39Z: juice-shop-ctf [`v9.1.0`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v9.1.0)
 * 2022-01-16T20:18:28Z: juice-shop-ctf [`v9.0.0`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v9.0.0)
 * 2021-09-26T18:28:42Z: juice-shop-ctf [`v8.2.3`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v8.2.3)
-* 2021-06-08T14:05:51Z: juice-shop-ctf [`v8.2.2`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v8.2.2)
-* 2021-05-03T15:24:19Z: juice-shop-ctf [`v8.2.1`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v8.2.1)
-* 2021-04-12T21:28:53Z: juice-shop-ctf [`v8.2.0`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v8.2.0)
-* 2020-12-14T19:43:09Z: juice-shop-ctf
-  [`v8.1.3`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v8.1.3)
+
 
 ## Roadmap
 
