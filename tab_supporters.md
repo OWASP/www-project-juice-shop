@@ -27,6 +27,7 @@ months._</small></small>
 
 #### All Corporate Supporters
 
+* [mindsetters OG](https://www.mindsetters.com/)<sup>(2023)</sup>
 * [Heyhack](https://heyhack.com)<sup>(2022)</sup>
 * [Schutzwerk](https://www.schutzwerk.com/)<sup>(2022)</sup>
 * [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019+2021)</sup>
