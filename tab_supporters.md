@@ -17,7 +17,8 @@ tags: juiceshop
 
 ### Top Supporters
 
-[![New Work SE](assets/images/NewWork_SE_Logo_RGB_Pos.png)](https://www.new-work.se/en/about-new-work-se) <!-- logo expiration: 10.12.2022 -->
+[![Your company name](assets/images/yourlogo_logo.png)](https://owasp.org/www-project-juice-shop/#div-supporters) <!-- logo expiration: 31.12.2099 -->
+[![Your company name](assets/images/yourlogo_logo.png)](https://owasp.org/www-project-juice-shop/#div-supporters) <!-- logo expiration: 31.12.2099 -->
 
 <small><small>_In order to be recognized as a "Top Supporter" a company
 must have donated $1000 or more a) to OWASP while attributing it to
@@ -26,6 +27,7 @@ months._</small></small>
 
 #### All Corporate Supporters
 
+* [mindsetters OG](https://www.mindsetters.com/)<sup>(2023)</sup>
 * [Heyhack](https://heyhack.com)<sup>(2022)</sup>
 * [Schutzwerk](https://www.schutzwerk.com/)<sup>(2022)</sup>
 * [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019+2021)</sup>
