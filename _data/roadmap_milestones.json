@@ -1,10 +1,10 @@
 [
-  "Rennovate the Score Board for best possible user experience (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#score-board-uiux' target='_blank'>GSoC 2023 Idea</a>)",
-  "Move <a href='https://pwning.owasp-juice.shop' target='_blank'>Pwning OWASP Juice Shop</a> eBook away from legacy <code>gitbook</code> (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#companion-guide-tech-stack' target='_blank'>GSoC 2023 Idea</a>)",
-  "Add Web3 specific hacking and coding challenges (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#add-web3-specific-hacking-and-coding-challenges' target='_blank'>GSoC 2023 Idea</a>)",
-  "Enhance precision of cheat detection with new data sources and algorithms (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#advanced-cheat-detection' target='_blank'>GSoC 2023 Idea</a>)",
-  "Map Juice Shop challenges as resources in OpenCRE (<a href='https://github.com/juice-shop/juice-shop/issues/1970' target='_blank'>#1970</a>)",
+  "Move <a href='https://pwning.owasp-juice.shop' target='_blank'>Pwning OWASP Juice Shop</a> eBook away from legacy <code>gitbook</code> (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#companion-guide-tech-stack' target='_blank'>GSoC 2023 Project w/ Parth Nanda</a>)",
+  "Add Web3 specific hacking and coding challenges (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#add-web3-specific-hacking-and-coding-challenges' target='_blank'>GSoC 2023 Project w/ Rishabh Keshan</a>)",
   "Introduce security metrics for Prometheus and Grafana monitoring, e.g. on CAPTCHAs and Rate Limiting",
+  "Enhance precision of cheat detection with new data sources and algorithms",
+  "Rennovate the Score Board for best possible user experience",
+  "Map Juice Shop challenges as resources in OpenCRE (<a href='https://github.com/juice-shop/juice-shop/issues/1970' target='_blank'>#1970</a>)",
   "Bring <a href='https://codeclimate.com/github/juice-shop/juice-shop' target='_blank'>overall test coverage</a> back over 90%+",
   "<a href='https://opensea.io/collection/juice-shop' target='_blank'>Sell NFT collection</a> ⇒ ฿؋₲ $U&#162;₠$$"
 ]
