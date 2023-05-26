@@ -74,6 +74,12 @@ $1,251.68 of royalties from
 [Björn Kimminich](https://kimminich.de)'s eBook have been donated to the
 project between 09/2017 and 07/2019.
 
+#### MultiJuicer Maintenance
+
+MultiJuicer was originally developed (and is still maintained primarily) by [iteratec](https://www.iteratec.de/). It became an official part of the OWASP Juice Shop project 05/2023.
+
+![iteratec](assets/images/300px-Iteratec-sponsor_logo.png)
+
 ---
 
 _The OWASP Foundation is very grateful for the support by the
