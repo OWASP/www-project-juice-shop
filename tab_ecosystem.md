@@ -27,7 +27,7 @@ and is online-readable **for free** at
 edition is also available **for free** at
 <https://leanpub.com/juice-shop> in PDF, Kindle and ePub format.
 
-## MultiJuicer Platform
+## Official Multi User Platform
 
 [![MultiJuicer Logo](https://raw.githubusercontent.com/juice-shop/multi-juicer/master/images/multijuicer-cover.svg?sanitize=true)](https://github.com/juice-shop/multi-juicer)
 
