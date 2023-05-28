@@ -76,7 +76,7 @@ project between 09/2017 and 07/2019.
 
 #### MultiJuicer Maintenance
 
-MultiJuicer was originally developed (and is still maintained primarily) by [iteratec](https://www.iteratec.de/). It became an official part of the OWASP Juice Shop project 05/2023.
+MultiJuicer was originally developed (and is still maintained primarily) by [iteratec](https://www.iteratec.com/en/). It became an official part of the OWASP Juice Shop project 05/2023.
 
 ![iteratec](assets/images/300px-Iteratec-sponsor_logo.png)
 
