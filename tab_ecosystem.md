@@ -29,7 +29,7 @@ edition is also available **for free** at
 
 ## Official Multi User Platform
 
-[![MultiJuicer Logo](https://raw.githubusercontent.com/juice-shop/multi-juicer/master/images/images/multijuicer-with-text.png?sanitize=true)](https://github.com/juice-shop/multi-juicer)
+[![MultiJuicer Logo](https://raw.githubusercontent.com/juice-shop/multi-juicer/master/images/multijuicer-with-text.png)](https://github.com/juice-shop/multi-juicer)
 
 Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster. [MultiJuicer](https://github.com/juice-shop/multi-juicer) comes with a built-in leader board and its own dedicated Juice Balancer for instance isolation. 
 
