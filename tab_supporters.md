@@ -17,7 +17,7 @@ tags: juiceshop
 
 ### Top Supporters
 
-[![Your company name](assets/images/yourlogo_logo.png)](https://owasp.org/www-project-juice-shop/#div-supporters) <!-- logo expiration: 31.12.2099 -->
+[![Secuvera](assets/images/secuveraLogo.png)](https://www.secuvera.de/) <!-- logo expiration: 30.06.2024 -->
 [![Your company name](assets/images/yourlogo_logo.png)](https://owasp.org/www-project-juice-shop/#div-supporters) <!-- logo expiration: 31.12.2099 -->
 
 <small><small>_In order to be recognized as a "Top Supporter" a company
@@ -27,17 +27,17 @@ months._</small></small>
 
 #### All Corporate Supporters
 
+* [secuvera](https://www.secuvera.de/)<sup>(2018/2019/2023)</sup> <!-- >=1000€ @ 01.06.2023 -->
 * [mindsetters OG](https://www.mindsetters.com/)<sup>(2023)</sup>
 * [Heyhack](https://heyhack.com)<sup>(2022)</sup>
 * [Schutzwerk](https://www.schutzwerk.com/)<sup>(2022)</sup>
-* [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019+2021)</sup>
+* [New Work SE](https://www.new-work.se/en/about-new-work-se)<sup>(2019/2021)</sup>
   <!-- >=1000€ @ 19.12.2019 & 10.12.2021 -->
 * [RandoriSec](https://randorisec.fr/)<sup>(2021)</sup>
 * [Wild West Hackin' Fest](https://wildwesthackinfest.com/)<sup>(2020)</sup>
   <!-- >=1000€ @ 03.08.2020 -->
 * [Denim Group](http://www.denimgroup.com/)<sup>(2018-2019)</sup> <!--
   \>=1000€ @ 26.08.2018 & 20.09.2019 -->
-* [secuvera](https://www.secuvera.de/)<sup>(2018-2019)</sup>
 * [PlexTrac](https://plextrac.com)<sup>(2019)</sup>
 * [Silpion](https://silpion.de)<sup>(2019)</sup>
 * [iteratec](https://www.iteratec.de/)<sup>(2017)</sup> <!-- >=1000€ @
