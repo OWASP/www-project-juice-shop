@@ -69,4 +69,4 @@ tags: juiceshop
 
 ## Application Architecture
 
-![Architecture diagram](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/introduction/img/architecture-diagram.png)
+![Architecture diagram](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/f0ea8ae9835b247238d4029a3bc4b62639081969/introduction/img/architecture-diagram.png)
