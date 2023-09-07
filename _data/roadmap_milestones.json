@@ -1,7 +1,5 @@
 [
-  "Move <a href='https://pwning.owasp-juice.shop' target='_blank'>Pwning OWASP Juice Shop</a> eBook away from legacy <code>gitbook</code> (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#companion-guide-tech-stack' target='_blank'>GSoC 2023 Project w/ Parth Nanda</a>)",
-  "Add Web3 specific hacking and coding challenges (<a href='https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas#add-web3-specific-hacking-and-coding-challenges' target='_blank'>GSoC 2023 Project w/ Rishabh Keshan</a>)",
-  "Rennovate the Score Board for best possible user experience (<a href='https://github.com/juice-shop/juice-shop/tree/feature/updated-score-board' target='_blank'>Preview branch</a>)",
+  "Gather ideas for 10th anniversary celebration of Juice Shop in 2024",
   "Enhance precision of cheat detection with new data sources and algorithms",
   "Bring <a href='https://codeclimate.com/github/juice-shop/juice-shop' target='_blank'>overall test coverage</a> back over 90%+",
   "<a href='https://opensea.io/collection/juice-shop' target='_blank'>Sell NFT collection</a> ⇒ ฿؋₲ $U&#162;₠$$"
