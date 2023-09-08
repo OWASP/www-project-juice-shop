@@ -29,6 +29,7 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 * [GitHub](https://github.com/juice-shop/juice-shop)
 * [CTF Extension (GitHub)](https://github.com/juice-shop/juice-shop-ctf)
+* [MultiJuicer (GitHub)](https://github.com/juice-shop/multi-juicer)
 * [Crowdin I18N](https://crowdin.com/project/owasp-juice-shop)
 
 ### Documentation

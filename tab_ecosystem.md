@@ -17,8 +17,8 @@ overview of the vulnerabilities found in the application including hints
 how to spot and exploit them. In the appendix you will even find
 complete step-by-step solutions to every challenge.
 
-[![Pwning OWASP Juice Shop cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/cover_small.jpg)](https://leanpub.com/juice-shop)
-[![Pwning OWASP Juice Shop back cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/back_small.jpg)](https://leanpub.com/juice-shop)
+[![Pwning OWASP Juice Shop cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/f0ea8ae9835b247238d4029a3bc4b62639081969/cover_small.jpg)](https://leanpub.com/juice-shop)
+[![Pwning OWASP Juice Shop back cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/f0ea8ae9835b247238d4029a3bc4b62639081969/back_small.jpg)](https://leanpub.com/juice-shop)
 
 The ebook is published under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -26,6 +26,12 @@ and is online-readable **for free** at
 <https://pwning.owasp-juice.shop>. The latest officially released
 edition is also available **for free** at
 <https://leanpub.com/juice-shop> in PDF, Kindle and ePub format.
+
+## Official Multi User Platform
+
+[![MultiJuicer Logo](https://raw.githubusercontent.com/juice-shop/multi-juicer/master/images/multijuicer-with-text.png)](https://github.com/juice-shop/multi-juicer)
+
+Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster. [MultiJuicer](https://github.com/juice-shop/multi-juicer) comes with a built-in leader board and its own dedicated Juice Balancer for instance isolation. 
 
 ## Official Jingle
 
@@ -38,11 +44,10 @@ written and performed by
 
 ## Endorsed Open Source Projects
 
-| Project                                                                                                                                                                    | Description                                                                                                                                                                           |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![MultiJuicer Logo](https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-cover.svg?sanitize=true)](https://github.com/iteratec/multi-juicer) | Multi User Juice Shop Platform to run separate Juice Shop instances for training or CTF participants on a central Kubernetes cluster                                                  |
-| <https://github.com/wurstbrot/shake-logger>                                                                                                                                | Demo to show the dangers of XSS holes combined with bad Content Security Policy using Harlem Shake and a Keylogger against the Juice Shop ([📺YouTube](https://youtu.be/Msi52Kicb-w)) |
+| Project                                     | Description                                                                                                                                                                           |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <https://github.com/wurstbrot/shake-logger> | Demo to show the dangers of XSS holes combined with bad Content Security Policy using Harlem Shake and a Keylogger against the Juice Shop ([📺YouTube](https://youtu.be/Msi52Kicb-w)) |
 
-_The tools listed above are provided by third parties outside of the
+_The tools listed above are provided by third parties outside the
 OWASP Juice Shop project scope. For support or feature requests please
 use the support channels or issue trackers mentioned by these projects._
