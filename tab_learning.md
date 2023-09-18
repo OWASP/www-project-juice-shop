@@ -14,12 +14,12 @@ tags: juiceshop
 ![Juicy Bot](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuicyBot_MedicalMask.png)
 
 Click on a link in the table below to launch a
-[step-by-step tutorial](https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor)
+[step-by-step tutorial](https://pwning.owasp-juice.shop/companion-guide/latest/part1/challenges.html#_hacking_instructor)
 for that particular challenge on our public
 <https://demo.owasp-juice.shop> instance. If you are entirely new to the
 Juice Shop, we recommend doing them in the listed order. With the
 (optional)
-[Tutorial Mode](https://pwning.owasp-juice.shop/part1/challenges.html#tutorial-mode)
+[Tutorial Mode](https://pwning.owasp-juice.shop/companion-guide/latest/part1/challenges.html#_tutorial_mode)
 you can even enforce that the {{ tutorials.size }} tutorial challenges
 have to be performed gradually in order to unlock the other {{
 site.data.challenges.size | minus: tutorials.size }} challenges.
@@ -51,7 +51,7 @@ site.data.challenges.size | minus: tutorials.size }} challenges.
 
 {% assign categories = site.data.challenges | where_exp: "item", "site.data.snippets.challenges contains item.key" | group_by:"category" | sort: "name" %}
 
-For {{ site.data.snippets.challenges.size }} challenges an additional [coding challenge](https://pwning.owasp-juice.shop/part1/challenges.html#coding-challenges) is available. In their "Find It" phase they teach
+For {{ site.data.snippets.challenges.size }} challenges an additional [coding challenge](https://pwning.owasp-juice.shop/companion-guide/latest/part1/challenges.html#_coding_challenges) is available. In their "Find It" phase they teach
 spotting vulnerabilities in the actual codebase of the Juice Shop. In the "Fix It" phase the user then chooses the most appropriate
 fix from a list. Solve any of the hacking challenges below to enable a button on the Score Board that launches the corresponding
 coding challenge:
