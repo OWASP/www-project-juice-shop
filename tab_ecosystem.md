@@ -17,8 +17,8 @@ overview of the vulnerabilities found in the application including hints
 how to spot and exploit them. In the appendix you will even find
 complete step-by-step solutions to every challenge.
 
-[![Pwning OWASP Juice Shop cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/docs/modules/ROOT/assets/images/cover.jpg)](https://leanpub.com/juice-shop)
-[![Pwning OWASP Juice Shop back cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/docs/modules/ROOT/assets/images/introduction/back.jpg)](https://leanpub.com/juice-shop)
+[![Pwning OWASP Juice Shop cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/docs/modules/ROOT/assets/images/cover.jpg | width=250)](https://leanpub.com/juice-shop)
+[![Pwning OWASP Juice Shop back cover](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/docs/modules/ROOT/assets/images/introduction/back.jpg | width=250)](https://leanpub.com/juice-shop)
 
 The ebook is published under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
