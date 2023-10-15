@@ -38,6 +38,11 @@ tags: juiceshop
 * 2022-01-16T20:18:28Z: juice-shop-ctf [`v9.0.0`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v9.0.0)
 * 2021-09-26T18:28:42Z: juice-shop-ctf [`v8.2.3`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v8.2.3)
 
+### MultiJuicer
+
+[![GitHub release](https://img.shields.io/github/release/juice-shop/multi-juicer.svg)](https://github.com/juice-shop/juice-shop-ctf/releases/latest)
+
+<!-- next:multi-juicer -->
 
 ## Roadmap
 
