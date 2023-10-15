@@ -68,7 +68,7 @@ Foundation._</small></small>
 
 #### LeanPub Royalties
 
-[![Pwning OWASP Juice Shop](https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/f0ea8ae9835b247238d4029a3bc4b62639081969/cover_small.jpg)](https://leanpub.com/juice-shop)
+[<img alt="Pwning OWASP Juice Shop" src="https://raw.githubusercontent.com/juice-shop/pwning-juice-shop/master/docs/modules/ROOT/assets/images/cover.jpg" width="250"/>](https://leanpub.com/juice-shop)
 
 $1,251.68 of royalties from
 [Björn Kimminich](https://kimminich.de)'s eBook have been donated to the
