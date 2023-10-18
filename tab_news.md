@@ -47,6 +47,7 @@ tags: juiceshop
 [![GitHub release](https://img.shields.io/github/release/juice-shop/multi-juicer.svg)](https://github.com/juice-shop/juice-shop-ctf/releases/latest)
 
 <!-- next:multi-juicer -->
+* 2023-10-18T18:04:26Z: multi-juicer [`v7.0.1`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.0.1)
 
 ## Roadmap
 
