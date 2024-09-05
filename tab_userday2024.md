@@ -13,7 +13,9 @@ The OWASP DSOMM & Juice Shop teams are happy to announce their upcoming shared U
 
 ### Location
 
-Hyatt Regency San Francisco Address: 5 Embarcadero Center San Francisco, CA 94111 United States - **Room:** Bayview A (Bay Level)
+Hyatt Regency San Francisco Address: 5 Embarcadero Center San Francisco, CA 94111 United States
+
+**Room:** Bayview A (Bay Level)
 
 ### Registration
 
@@ -26,18 +28,18 @@ Hyatt Regency San Francisco Address: 5 Embarcadero Center San Francisco, CA 9411
 
 ### Agenda
 
-| Time  | Title                                                                    | Facilitator                                      |
-|-------|--------------------------------------------------------------------------|--------------------------------------------------|
-| 9:00  | Welcome: **Juice Shop Morning**                                          | Björn Kimminich & Timo Pagel                     |
-| 9:05  | Juice Shop Introduction                                                  | Björn Kimminich                                  |
-| 9:30  | Shake Logger XSS Demo                                                    | Timo Pagel                                       |
-| 9:45  | Multi Juicer Introduction                                                | Jannik Hollenbach                                |
-| 10:30 | Just-for-fun-CTF w/ Multi Juicer                                         | Jannik Hollenbach                                |
-| 12:30 | Lunch Break (w/ Juice Shop Ask-us-Anything Session)                      | Björn Kimminich & Jannik Hollenbach & Timo Pagel |
-|       |                                                                          |                                                  |
-| 13:30 | Welcome: **DSOMM Afternoon**                                             | Björn Kimminich & Timo Pagel                     |
-| 13:35 | Application Security Program Experiences / Ask Anything                  | Brook Schoenfield & Timo Pagel                   |
-| 14:30 | DSOMM Live Assessment for the OWASP Juice Shop Application               | Björn Kimminich & Jannik Hollenbach & Timo Pagel |
-| 15:30 | Reach your Dynamic Depth with OWASP secureCodeBox                        | Jannik Hollenbach                                |
-| 16:30 | Workshop: Application and Vulnerability maturity Model (VMM) - DSOMM Map | Francesco Cipollone & Timo Pagel                 |
-| 18:30 | Wrap Up                                                                  | Timo Pagel                                       |
+| Time                 | Title                                                                                   | Facilitator                                                     |
+|----------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| <small>9:00</small>  | Welcome: **Juice Shop Morning**                                                         | <small>Björn Kimminich & Timo Pagel</small>                     |
+| <small>9:05</small>  | <small>Juice Shop Introduction</small>                                                  | <small>Björn Kimminich</small>                                  |
+| <small>9:30</small>  | <small>Shake Logger XSS Demo</small>                                                    | <small>Timo Pagel</small>                                       |
+| <small>9:45</small>  | <small>Multi Juicer Introduction</small>                                                | <small>Jannik Hollenbach</small>                                |
+| <small>10:30</small> | <small>Just-for-fun-CTF w/ Multi Juicer</small>                                         | <small>Jannik Hollenbach</small>                                |
+| <small>12:30</small> | <small>Lunch Break (w/ Juice Shop Ask-us-Anything Session)</small>                      | <small>Björn Kimminich & Jannik Hollenbach & Timo Pagel</small> |
+|                      |                                                                                         |                                                                 |
+| <small>13:30</small> | Welcome: **DSOMM Afternoon**                                                            | <small>Björn Kimminich & Timo Pagel</small>                     |
+| <small>13:35</small> | <small>Application Security Program Experiences / Ask Anything</small>                  | <small>Brook Schoenfield & Timo Pagel</small>                   |
+| <small>14:30</small> | <small>DSOMM Live Assessment for the OWASP Juice Shop Application</small>               | <small>Björn Kimminich & Jannik Hollenbach & Timo Pagel</small> |
+| <small>15:30</small> | <small>Reach your Dynamic Depth with OWASP secureCodeBox</small>                        | <small>Jannik Hollenbach</small>                                |
+| <small>16:30</small> | <small>Workshop: Application and Vulnerability maturity Model (VMM) - DSOMM Map</small> | <small>Francesco Cipollone & Timo Pagel</small>                 |
+| <small>18:30</small> | <small>Wrap Up</small>                                                                  | <small>Timo Pagel</small>                                       |
