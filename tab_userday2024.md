@@ -15,6 +15,15 @@ The OWASP DSOMM & Juice Shop teams are happy to announce their upcoming shared U
 
 Hyatt Regency San Francisco Address: 5 Embarcadero Center San Francisco, CA 94111 United States - **Room:** Bayview A (Bay Level)
 
+### Registration
+
+1. Go to [OWASP Global AppSec San Francisco 2024 on Eventbrite](https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
+2. Click _Get Tickets_
+3. Scroll down to **Elevate: DSOMM and Juice Shop User Day (Sept. 25)** and add ticket(s) to basket for $55.20 each<sup>\*</sup>
+4. Click _Checkout_
+
+<small>\* = covers fees for room, AV, and catering throught the day.</small>
+
 ### Agenda
 
 | Time  | Title                                                                    | Facilitator                                      |
