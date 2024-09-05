@@ -1,5 +1,5 @@
 ---
-title: User Day 2024
+title: "User Day 2024"
 layout:  null
 altfooter: true
 tab: true
