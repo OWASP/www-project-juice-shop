@@ -48,7 +48,7 @@ Hyatt Regency San Francisco Address: 5 Embarcadero Center San Francisco, CA 9411
 
 #### Juice Shop Introduction
 
-_Coming soon..._
+In the brief session, you will learn all the basics of the OWASP Juice Shop project: Why it exists, what it can do, where you can get it from, and how to get it running! This session will make sure that newcomers and experts alike can enjoy and follow in the subsequent Juice Shop sessions!
 
 ##### Shake Logger XSS Demo
 Cross-Site Scripting (XSS) demonstrations in secure coding training often rely on simple alert boxes, which can understate the true risks of this vulnerability. This session will show you how to effectively illustrate the damage potential of XSS to both developers and non-technical audiences, providing a more realistic and compelling demonstration of its impact.
