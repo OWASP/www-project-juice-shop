@@ -9,6 +9,8 @@ tags: juiceshop
 
 ## DSOMM & Juice Shop User Day 2024
 
+![](assets/images/userday2024_banner.png)
+
 The OWASP DSOMM & Juice Shop teams are happy to announce their upcoming shared User Day on **Wednesday, September 25th 2024**. It is part of the OWASP AppSec San Francisco.
 
 ### Location

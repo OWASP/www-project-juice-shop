@@ -17,7 +17,6 @@ tags: juiceshop
 
 ### Top Supporters
 
-[![Secuvera](assets/images/secuveraLogo.png)](https://www.secuvera.de/) <!-- logo expiration: 30.06.2024 -->
 [![Your company name](assets/images/yourlogo_logo.png)](https://owasp.org/www-project-juice-shop/#div-supporters) <!-- logo expiration: 31.12.2099 -->
 
 <small><small>_In order to be recognized as a "Top Supporter" a company
