@@ -16,6 +16,7 @@ tags: juiceshop
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop.svg)](https://hub.docker.com/r/bkimminich/juice-shop)
 
 <!-- next:juice-shop -->
+* 2024-09-09T16:06:22Z: juice-shop [`v17.1.1`](https://github.com/juice-shop/juice-shop/releases/tag/v17.1.1)
 * 2024-08-05T15:07:20Z: juice-shop [`v17.1.0`](https://github.com/juice-shop/juice-shop/releases/tag/v17.1.0)
 * 2024-05-24T21:08:54Z: juice-shop [`v17.0.0`](https://github.com/juice-shop/juice-shop/releases/tag/v17.0.0)
 * 2024-04-22T13:36:03Z: juice-shop [`v16.0.1`](https://github.com/juice-shop/juice-shop/releases/tag/v16.0.1)
@@ -52,6 +53,7 @@ tags: juiceshop
 [![GitHub release](https://img.shields.io/github/release/juice-shop/multi-juicer.svg)](https://github.com/juice-shop/juice-shop-ctf/releases/latest)
 
 <!-- next:multi-juicer -->
+* 2024-09-10T09:40:37Z: multi-juicer [`v7.3.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.3.0)
 * 2024-04-19T17:48:27Z: multi-juicer [`v7.2.2`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.2.2)
 * 2023-12-21T11:11:28Z: multi-juicer [`v7.2.1`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.2.1)
 * 2023-12-21T11:05:26Z: multi-juicer [`v7.2.1-rc.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.2.1-rc.0)
