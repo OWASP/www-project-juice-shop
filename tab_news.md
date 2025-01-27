@@ -40,6 +40,7 @@ tags: juiceshop
 [![Docker Pulls](https://img.shields.io/docker/pulls/bkimminich/juice-shop-ctf.svg)](https://hub.docker.com/r/bkimminich/juice-shop-ctf)
 
 <!-- next:juice-shop-ctf -->
+* 2024-10-25T14:30:28Z: juice-shop-ctf [`v11.0.0`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v11.0.0)
 * 2023-10-11T22:23:15Z: juice-shop-ctf [`v10.0.1`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v10.0.1)
 * 2023-09-01T10:31:42Z: juice-shop-ctf [`v10.0.0`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v10.0.0)
 * 2022-08-23T16:13:55Z: juice-shop-ctf [`v9.1.2`](https://github.com/juice-shop/juice-shop-ctf/releases/tag/v9.1.2)
@@ -53,6 +54,11 @@ tags: juiceshop
 [![GitHub release](https://img.shields.io/github/release/juice-shop/multi-juicer.svg)](https://github.com/juice-shop/juice-shop-ctf/releases/latest)
 
 <!-- next:multi-juicer -->
+* 2025-01-07T18:42:57Z: multi-juicer [`v8.0.1`](https://github.com/juice-shop/multi-juicer/releases/tag/v8.0.1)
+* 2024-12-28T13:51:39Z: multi-juicer [`v8.0.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v8.0.0)
+* 2024-12-28T10:56:15Z: multi-juicer [`v8.0.0-rc.2`](https://github.com/juice-shop/multi-juicer/releases/tag/v8.0.0-rc.2)
+* 2024-12-20T20:06:24Z: multi-juicer [`v8.0.0-rc.1`](https://github.com/juice-shop/multi-juicer/releases/tag/v8.0.0-rc.1)
+* 2024-11-10T19:45:11Z: multi-juicer [`v8.0.0-rc.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v8.0.0-rc.0)
 * 2024-10-06T00:25:23Z: multi-juicer [`v7.3.2`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.3.2)
 * 2024-09-19T13:26:34Z: multi-juicer [`v7.3.1`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.3.1)
 * 2024-09-10T09:40:37Z: multi-juicer [`v7.3.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v7.3.0)
