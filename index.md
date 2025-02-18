@@ -88,4 +88,4 @@ This program is free software: You can redistribute it and/or modify it
 under the terms of the
 [MIT License](https://github.com/juice-shop/juice-shop/blob/master/LICENSE).
 OWASP Juice Shop and any contributions are Copyright © by Bjoern
-Kimminich & the OWASP Juice Shop contributors 2014-2023.
+Kimminich & the OWASP Juice Shop contributors 2014-2025.
