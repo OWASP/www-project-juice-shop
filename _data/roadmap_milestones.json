@@ -1,8 +1,6 @@
 [
   "Auction off up to ten <a href='https://opensea.io/collection/juice-shop-10th-anniversary' target='_blank'>unique anniversary NFT artworks</a> to true Juice Shop fans",
-  "Complete the <a href='https://github.com/juice-shop/juice-shop/issues/2173' target='_blank'>Angular 17 migration</a> of the frontend",
-  "Re-write all MultiJuicer server components <a href='https://github.com/juice-shop/multi-juicer/compare/v7.3.2...main' target='_blank'>in Go</a> (✅ completed. coming with upcoming 8.0.0 release)",
-  "Better <a href='https://github.com/juice-shop/multi-juicer/issues/27' target='_blank'>MultiJuicer ScoreBoard</a> listing solved challenges by team.",
+  "Update to the <a href='https://github.com/juice-shop/juice-shop/issues/2538' target='_blank'>newest Angular Version</a>",
   "Pay back other accumulated technical debt and harmonize codebase overall",
   "Bring <a href='https://codeclimate.com/github/juice-shop/juice-shop' target='_blank'>overall test coverage</a> back over 90%+"
 ]
