@@ -4,7 +4,7 @@ layout:  null
 altfooter: true
 tab: true
 order: 2
-tags: ['juiceshop']
+tags: juiceshop
 ---
 
 ## Latest Releases
