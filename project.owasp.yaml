@@ -1,0 +1,75 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-juiceshop
+    platform: slack
+    url: https://owasp.slack.com/archives/C255XSY04
+    description: Project channel for OWASP Juice Shop (<http://owasp-juice.shop>)
+  - name: juiceshop-dev
+    platform: slack
+    url: https://owasp.slack.com/archives/CCGNHE0F4
+    description: Developer channel for OWASP Juice Shop (<https://github.com/bkimminich/juice-shop>)
+  - name: juiceshop-social
+    platform: slack
+    url: https://owasp.slack.com/archives/CE5SSBLAV
+    description: Fresh &amp; juicy Tweets
+leaders:
+  - name: Bjoern Kimminich
+    email: bjoern.kimminich@owasp.org
+    github: bkimminich
+  - name: Jannik Hollenbach
+    email: jannik.hollenbach@owasp.org
+    github: J12934
+level: 4
+license:
+  - Apache-2.0
+  - MIT
+name: OWASP Juice Shop
+pitch: Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs. Also great voluntary guinea
+  pig for your security tools and DevSecOps pipelines!
+repositories:
+  - name: www-project-juice-shop
+    url: https://github.com/OWASP/www-project-juice-shop
+    description: OWASP Foundation Web Repository
+  - name: www-project-juice-shop
+    url: https://github.com/juice-shop/www-project-juice-shop
+    description: OWASP Foundation Web Repository
+  - name: .github
+    url: https://github.com/juice-shop/.github
+  - name: juice-shop
+    url: https://github.com/juice-shop/juice-shop
+    description: 'OWASP Juice Shop: Probably the most modern and sophisticated insecure web application'
+  - name: juice-shop-ctf
+    url: https://github.com/juice-shop/juice-shop-ctf
+    description: Tool to export Juice Shop challenges and hints in data format compatible with CTFd, RootTheBox or FBCTF
+  - name: juice-shop-tutorials
+    url: https://github.com/juice-shop/juice-shop-tutorials
+    description: Official OWASP Juice Shop tutorials on UI customization and system integration
+  - name: juicy-chat-bot
+    url: https://github.com/juice-shop/juicy-chat-bot
+    description: Smart, friendly and helpful chat bot for OWASP Juice Shop
+  - name: juicy-coupon-bot
+    url: https://github.com/juice-shop/juicy-coupon-bot
+    description: Coupon code generator and distribution bot for OWASP Juice Shop
+  - name: juicy-malware
+    url: https://github.com/juice-shop/juicy-malware
+  - name: juicy-statistics
+    url: https://github.com/juice-shop/juicy-statistics
+    description: Scripts to collect statistics about OWASP Juice Shop
+  - name: multi-juicer
+    url: https://github.com/juice-shop/multi-juicer
+    description: Host and manage multiple Juice Shop instances for security trainings and Capture The Flags
+  - name: pwning-juice-shop
+    url: https://github.com/juice-shop/pwning-juice-shop
+    description: Antora/Asciidoc content for Bjoern Kimminich's free eBook "Pwning OWASP Juice Shop"
+  - name: shake-logger
+    url: https://github.com/juice-shop/shake-logger
+    description: This projects provides a logger and a connected harlem shake js.
+tags:
+  - juiceshop
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-juice-shop
