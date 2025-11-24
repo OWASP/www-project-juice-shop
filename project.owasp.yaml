@@ -1,0 +1,89 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Bjoern Kimminich
+    email: bjoern.kimminich@owasp.org
+    github: bkimminich
+  - name: Jannik Hollenbach
+    email: jannik.hollenbach@owasp.org
+    github: J12934
+community:
+  - name: project-juiceshop
+    platform: slack
+    url: https://owasp.slack.com/archives/C255XSY04
+    description: Main channel of the OWASP Juice Shop project
+  - name: 'bkimminich_juice-shop:gitter.im'
+    platform: matrix
+    url: https://matrix.to/#/#bkimminich_juice-shop:gitter.im
+  - name: /r/owasp_juiceshop
+    platform: reddit
+    url: https://www.reddit.com/r/owasp_juiceshop
+mailing_list:
+  - url: https://groups.google.com/a/owasp.org/g/juice-shop-project
+    email: juice-shop-project@owasp.org
+social_media:
+  - platform: bluesky
+    url: https://bsky.app/profile/owasp-juice.shop
+  - platform: mastodon
+    url: https://fosstodon.org/@owasp_juiceshop
+  - platform: x
+    url: https://twitter.com/owasp_juiceshop
+  - platform: youtube
+    url: https://www.youtube.com/channel/UCjkQ1Y-bxYAqwwD1SyQpBvw/playlists
+  - platform: facebook
+    url: https://www.facebook.com/owasp.juiceshop
+events:
+  - title: Juice Shop Developer Meeting
+    description: Bi-weekly developer & contributor meeting via Google Meet (Tuesdays at 19:00-19:45 CET/CEST)
+    url: https://calendar.google.com/calendar/u/0/embed?src=hl6cjgs6ep1h7oniqgueu2bhbo@group.calendar.google.com
+logo:
+  - small: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_50px.png
+  - medium: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png
+  - large: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png
+level: 4
+license:
+  - MIT
+  - Apache-2.0
+# - CC-BY-NC-ND-4.0
+name: OWASP Juice Shop
+pitch: Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs. Also great voluntary guinea
+  pig for your security tools and DevSecOps pipelines!
+repositories:
+  - name: juice-shop
+    url: https://github.com/juice-shop/juice-shop
+    description: 'OWASP Juice Shop: Probably the most modern and sophisticated insecure web application'
+  - name: multi-juicer
+    url: https://github.com/juice-shop/multi-juicer
+    description: Host and manage multiple Juice Shop instances for security trainings and Capture The Flags
+  - name: juice-shop-ctf
+    url: https://github.com/juice-shop/juice-shop-ctf
+    description: Tool to export Juice Shop challenges and hints in data format compatible with CTFd, RootTheBox or FBCTF
+  - name: pwning-juice-shop
+    url: https://github.com/juice-shop/pwning-juice-shop
+    description: Antora/Asciidoc content for Bjoern Kimminich's free eBook "Pwning OWASP Juice Shop"
+  - name: juice-shop-tutorials
+    url: https://github.com/juice-shop/juice-shop-tutorials
+    description: Official OWASP Juice Shop tutorials on UI customization and system integration
+  - name: www-project-juice-shop
+    url: https://github.com/OWASP/www-project-juice-shop
+    description: OWASP Juice Shop project website
+demo:
+  - https://demo.owasp-juice.shop
+documentation:
+  - https://pwning.owasp-juice.shop
+downloads:
+  - https://hub.docker.com/r/bkimminich/juice-shop
+  - https://github.com/juice-shop/juice-shop/releases
+  - https://sourceforge.net/projects/juice-shop/files
+tags:
+  - juiceshop
+  - vulnerable application
+  - training
+  - awareness
+  - ctf
+  - capture the flag
+  - education
+type: tool
+website: https://owasp-juice.shop
