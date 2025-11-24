@@ -46,7 +46,7 @@ level: 4
 license:
   - MIT
   - Apache-2.0
-# - CC-BY-NC-ND-4.0
+  - CC-BY-NC-ND-4.0
 name: OWASP Juice Shop
 pitch: Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs. Also great voluntary guinea
   pig for your security tools and DevSecOps pipelines!
