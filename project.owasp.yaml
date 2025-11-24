@@ -39,9 +39,9 @@ events:
     description: Bi-weekly developer & contributor meeting via Google Meet (Tuesdays at 19:00-19:45 CET/CEST)
     url: https://calendar.google.com/calendar/u/0/embed?src=hl6cjgs6ep1h7oniqgueu2bhbo@group.calendar.google.com
 logo:
-  small: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_50px.png
-  medium: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png
-  large: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png
+  - small: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_50px.png
+  - medium: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png
+  - large: https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png
 level: 4
 license:
   - MIT
