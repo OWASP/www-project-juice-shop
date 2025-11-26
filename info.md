@@ -41,10 +41,10 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 
 ### Community
 
-* Chat ([Gitter](https://gitter.im/bkimminich/juice-shop)/[Matrix](https://matrix.to/#/#bkimminich_juice-shop:gitter.im))
-* [Subreddit](https://www.reddit.com/r/owasp_juiceshop)
 * [Slack Channel](https://owasp.slack.com/messages/project-juiceshop) ([Self-registration](https://owasp.org/slack/invite))
-* [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/juice-shop-project)
+* [Matrix](https://matrix.to/#/#bkimminich_juice-shop:gitter.im)
+* [Subreddit](https://www.reddit.com/r/owasp_juiceshop)
+* [Google Group](https://groups.google.com/a/owasp.org/g/juice-shop-project)
 
 ### Statistics
 
@@ -53,8 +53,8 @@ Join the first ever Juice Shop-themed <b>Virtual Escape Room</b> event by OWASP 
 ### Social Media
 
 * [BlueSky](https://bsky.app/profile/owasp-juice.shop)
-* [Twitter/X](https://twitter.com/owasp_juiceshop)
 * <a rel="me" href="https://fosstodon.org/@owasp_juiceshop">Mastodon</a>
+* [Twitter/X](https://x.com/owasp_juiceshop)
 * [Facebook](https://www.facebook.com/owasp.juiceshop)
 * [YouTube](https://www.youtube.com/channel/UCjkQ1Y-bxYAqwwD1SyQpBvw/playlists)
 
