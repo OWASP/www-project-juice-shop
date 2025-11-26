@@ -1,5 +1,7 @@
 [
+  "Enhance UX of Score Board regarding coding challenges and embedded payloads<sup>(<a href='https://github.com/juice-shop/juice-shop/issues/2868' target='_blank'>#2868</a>)</sup>",
+  "Modernize the frontend for better maintainability, performance, and accessibility<sup>(<a href='https://github.com/juice-shop/juice-shop/issues/2875' target='_blank'>#2875</a>, <a href='https://github.com/juice-shop/juice-shop/issues/2876' target='_blank'>#2876</a>)</sup>",
   "Investigate possibility to include AI/LLM challenges without bloating the application",
-  "Gradually pay back <a href='https://qlty.sh/gh/juice-shop/projects/juice-shop' target='_blank'>our accumulated technical debt</a>",
+  "Gradually enhance the codebase and pay back <a href='https://qlty.sh/gh/juice-shop/projects/juice-shop' target='_blank'>accumulated technical debt</a>",
   "Eventually bring <a href='https://coveralls.io/github/juice-shop/juice-shop' target='_blank'>overall test coverage</a> back over 90%"
 ]
