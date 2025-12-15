@@ -12,7 +12,7 @@ jobs:
   action:
     runs-on: ubuntu-latest
     steps:
-      - uses: dessant/lock-threads@f1a42f0f44eb83361d617a014663e1a76cf282d2 #note newer is available
+      - uses: dessant/lock-threads@7266a7ce5c1df01b1c6db85bf8cd86c737dadbe7 #note newer is available
         with:
           issue-lock-comment: >
             This thread has been automatically locked because it has not had
