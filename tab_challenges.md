@@ -1,10 +1,6 @@
 ---
 title: Challenges
-layout:  null
-altfooter: true
-tab: true
-order: 3
-tags: juiceshop
+layout: default
 ---
 
 ## Challenge Categories

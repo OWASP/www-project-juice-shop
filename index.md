@@ -1,11 +1,6 @@
 ---
-layout: col-sidebar
-altfooter: true
+layout: default
 title: OWASP Juice Shop
-tags: juiceshop
-level: 4
-type: tool
-pitch: Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs. Also great voluntary guinea pig for your security tools and DevSecOps pipelines!
 ---
 
 <!-- rebuild 2 -->

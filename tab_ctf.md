@@ -1,10 +1,6 @@
 ---
 title: CTF
-layout:  null
-altfooter: true
-tab: true
-order: 5
-tags: juiceshop
+layout: default
 ---
 
 ## CTF Extension

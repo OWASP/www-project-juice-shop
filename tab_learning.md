@@ -1,10 +1,6 @@
 ---
 title: Learning
-layout:  null
-altfooter: true
-tab: true
-order: 4
-tags: juiceshop
+layout: default
 ---
 
 ## Hacking Instructor Tutorials

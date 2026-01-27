@@ -1,10 +1,6 @@
 ---
 title: Supporters
-layout:  null
-altfooter: true
-tab: true
-order: 7
-tags: juiceshop
+layout: default
 ---
 
 ## Project Supporters
