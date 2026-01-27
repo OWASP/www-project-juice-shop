@@ -1,6 +1,15 @@
-remote_theme: "owasp/www--site-theme@main"
+theme: jekyll-theme-cayman
 plugins:
- - jekyll-include-cache-0.2.0
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+# Use local layouts
+layout: default
+# Cayman theme options
+show_downloads: false
 repository: OWASP/www-project-juice-shop
 code_user: juice-shop
 code_repo: juice-shop
+title: OWASP Juice Shop
+description: Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs.

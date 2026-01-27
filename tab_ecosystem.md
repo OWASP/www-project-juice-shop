@@ -1,10 +1,6 @@
 ---
 title: Ecosystem
-layout: null
-altfooter: true
-tab: true
-order: 6
-tags: juiceshop
+layout: default
 ---
 
 ## Official Companion Guide

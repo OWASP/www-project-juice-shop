@@ -1,10 +1,6 @@
 ---
 title: Overview
-layout:  null
-altfooter: true
-tab: true
-order: 1
-tags: juiceshop
+layout: default
 ---
 
 ## Main Selling Points
