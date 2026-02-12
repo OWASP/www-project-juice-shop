@@ -54,6 +54,7 @@ tags: juiceshop
 [![GitHub release](https://img.shields.io/github/release/juice-shop/multi-juicer.svg)](https://github.com/juice-shop/juice-shop-ctf/releases/latest)
 
 <!-- next:multi-juicer -->
+* 2026-02-12T19:50:54Z: multi-juicer [`v9.2.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v9.2.0)
 * 2026-01-25T21:15:53Z: multi-juicer [`v9.1.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v9.1.0)
 * 2025-11-22T17:39:28Z: multi-juicer [`v9.0.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v9.0.0)
 * 2025-06-17T07:57:20Z: multi-juicer [`v8.3.0`](https://github.com/juice-shop/multi-juicer/releases/tag/v8.3.0)
