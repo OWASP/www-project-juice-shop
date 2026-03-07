@@ -43,7 +43,7 @@ or MITRE's
 
 ## Challenge Tags
 
-{% assign tags = site.data.challenges | map: "tags" | uniq | join: "," | replace: ",,", "," | split: "," | sort  %}
+{% assign tags = site.data.challenges | map: "tags" | compact | flatten | uniq | sort %}
 
 Tags do not represent vulnerability categories but serve as additional
 meta information for challenges. They mark certain commonalities or
