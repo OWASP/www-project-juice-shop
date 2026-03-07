@@ -45,6 +45,10 @@ or MITRE's
 
 {% assign tags = site.data.challenges | map: "tags" | uniq | join: "," | replace: ",,", "," | split: "," | sort  %}
 
+<pre>
+tags: {{ site | jsonify | escape }}
+</pre>
+
 Tags do not represent vulnerability categories but serve as additional
 meta information for challenges. They mark certain commonalities or
 special types of challenges - like those lacking seriousness or ones
