@@ -46,7 +46,7 @@ or MITRE's
 {% assign tags = site.data.challenges | map: "tags" | uniq | join: "," | replace: ",,", "," | split: "," | sort  %}
 
 <pre>
-tags: {{ site | jsonify | escape }}
+tags: {{ tags | jsonify | escape }}
 </pre>
 
 Tags do not represent vulnerability categories but serve as additional
