@@ -53,15 +53,13 @@ layout: default
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot01.png)
-<br><br>
-![Screenshot 2](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot02.png)
-<br><br>
-![Screenshot 3](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot03.png)
-<br><br>
-![Screenshot 4](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot04.png)
-<br><br>
-![Screenshot 5](https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot05.png)
+<div class="image-grid">
+  <img src="https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot01.png" alt="Screenshot 1">
+  <img src="https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot02.png" alt="Screenshot 2">
+  <img src="https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot03.png" alt="Screenshot 3">
+  <img src="https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot04.png" alt="Screenshot 4">
+  <img src="https://raw.githubusercontent.com/juice-shop/juice-shop/master/screenshots/screenshot05.png" alt="Screenshot 5">
+</div>
 
 ## Application Architecture
 

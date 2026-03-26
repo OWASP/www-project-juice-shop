@@ -7,8 +7,6 @@ layout: default
 
 {% assign tutorials = site.data.challenges | where_exp: "item", "item.tutorial != null" | sort: "tutorial.order" %}
 
-![Juicy Bot](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuicyBot_MedicalMask.png)
-
 Click on a link in the table below to launch a
 [step-by-step tutorial](https://pwning.owasp-juice.shop/companion-guide/latest/part1/challenges.html#_hacking_instructor)
 for that particular challenge on our public

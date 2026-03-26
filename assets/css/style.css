@@ -1,0 +1,236 @@
+:root {
+  --bg-color: #000000;
+  --text-color: #ff2d55; /* Pink/Red from screenshot */
+  --accent-color: #ffcc00; /* Yellow */
+  --glow-color: rgba(255, 45, 85, 0.6);
+  --border-color: #ff2d55;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'VT323', 'Courier New', Courier, monospace; /* Pixelated/Terminal feel */
+  line-height: 1.5;
+  font-size: 1.2rem;
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  text-shadow: 0 0 8px var(--accent-color);
+}
+
+.page-header {
+  background-color: var(--bg-color);
+  border-bottom: 2px solid var(--border-color);
+  box-shadow: 0 0 15px var(--glow-color);
+  padding: 0.8rem 1rem;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-logo {
+  height: 60px;
+  width: auto;
+  filter: drop-shadow(0 0 5px var(--glow-color));
+}
+
+.header-titles {
+  text-align: left;
+}
+
+.project-name {
+  color: var(--text-color);
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 0 0 10px var(--glow-color);
+  font-size: 2rem;
+  margin: 0;
+}
+
+.project-tagline {
+  color: var(--accent-color);
+  opacity: 0.8;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.header-nav {
+  margin-top: 0.5rem;
+}
+
+.btn {
+  border: 1px solid var(--border-color);
+  color: var(--text-color) !important;
+  background: transparent;
+  padding: 0.5rem 1rem;
+  margin: 5px;
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: var(--border-color);
+  color: var(--bg-color) !important;
+  box-shadow: 0 0 10px var(--glow-color);
+}
+
+.main-content {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.main-content img {
+  max-width: min(800px, 100%);
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+  border: none;
+  box-shadow: none;
+}
+
+/* Badges and Logos - No border, no glow, horizontal layout for badges */
+.main-content img[src*="badge"],
+.main-content img[src*="Logo"],
+.main-content img[src*="logo"],
+.main-content img[src*="shields.io"] {
+  display: inline-block;
+  margin: 5px;
+  vertical-align: middle;
+}
+
+.main-content p:has(img[src*="badge"]),
+.main-content p:has(a > img[src*="badge"]),
+.main-content p:has(img[src*="shields.io"]),
+.main-content p:has(a > img[src*="shields.io"]) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.sidebar {
+  background-color: #0a0a0a !important;
+  border-left: 2px solid var(--border-color) !important;
+  box-shadow: -5px 0 15px rgba(0,0,0,0.5);
+  color: var(--text-color);
+}
+
+.sidebar h3, .sidebar h1, .sidebar h2 {
+  color: var(--accent-color);
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+  text-shadow: 0 0 5px var(--glow-color);
+}
+
+code, pre {
+  background: #1a1a1a;
+  color: var(--accent-color);
+  border: 1px solid #333;
+}
+
+/* Layout Utilities */
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+@media screen and (max-width: 64em) {
+  .image-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.image-grid img {
+  margin: 0 !important;
+  width: 100%;
+}
+
+.image-flex {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+@media screen and (max-width: 64em) {
+  .image-flex {
+    flex-direction: column;
+  }
+}
+
+.image-flex img {
+  margin: 0 !important;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border-color);
+  padding-top: 1rem;
+  margin-top: 2rem;
+  color: #666;
+}
+
+/* Tables */
+.main-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background-color: rgba(255, 45, 85, 0.05); /* Very subtle pink tint */
+}
+
+.main-content th,
+.main-content td {
+  border: 1px solid rgba(255, 45, 85, 0.3); /* Subtle neon grid */
+  padding: 0.8rem;
+  text-align: left;
+}
+
+.main-content th {
+  background-color: rgba(255, 45, 85, 0.1);
+  color: var(--accent-color);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.main-content tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+.main-content tr:hover {
+  background-color: rgba(255, 45, 85, 0.1);
+}
+
+/* Scrollbar for neony look */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  box-shadow: 0 0 5px var(--glow-color);
+}

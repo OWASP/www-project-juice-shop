@@ -5,8 +5,6 @@ layout: default
 
 ## CTF Extension
 
-![Juice Shop CTF Logo](https://raw.githubusercontent.com/juice-shop/juice-shop-ctf/master/images/JuiceShopCTF_Logo_100px.png)
-
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop-ctf.svg)](https://github.com/juice-shop/juice-shop-ctf/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/juice-shop/juice-shop-ctf.svg?label=GitHub%20%E2%98%85&style=flat)](https://github.com/juice-shop/juice-shop-ctf)
 

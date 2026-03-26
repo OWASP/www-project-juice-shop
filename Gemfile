@@ -1,4 +1,4 @@
-source 'https://rubygems.org' 
+source 'https://rubygems.org'
 
 # Fix for Ruby 4.0 compatibility with Liquid 4.0 (Jekyll 3.9)
 if RUBY_VERSION >= '3.2'
@@ -12,7 +12,7 @@ if RUBY_VERSION >= '3.2'
 end
 
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-theme-cayman"
+# gem "jekyll-theme-cayman"
 gem "jekyll-remote-theme"
 
 gem "jekyll", "~> 3.9"

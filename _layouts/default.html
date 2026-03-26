@@ -7,29 +7,30 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="#000000">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
   </head>
   <body>
     <style>
       .page-layout {
         display: flex;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
+        max-width: 100%;
       }
       .main-content {
-        flex: 3;
+        flex: 1 1 70%;
         padding: 2rem 1rem;
-        max-width: 100%;
         box-sizing: border-box;
+        overflow-x: hidden;
       }
       .sidebar {
-        flex: 1;
+        flex: 0 0 300px;
         padding: 2rem 1rem;
-        background-color: #f3f6f6;
-        border-left: 1px solid #e1e4e8;
-        min-width: 280px;
+        background-color: #050505;
+        border-left: 1px solid #ff2d55;
         box-sizing: border-box;
       }
       @media screen and (max-width: 64em) {
@@ -38,7 +39,8 @@
         }
         .sidebar {
           border-left: none;
-          border-top: 1px solid #e1e4e8;
+          border-top: 1px solid #ff2d55;
+          flex: 0 0 auto;
         }
       }
       .sidebar h3 {
@@ -53,13 +55,22 @@
         height: auto;
       }
     </style>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <div class="header-content">
+        {% if page.title == "CTF" %}
+          <img src="https://raw.githubusercontent.com/juice-shop/juice-shop-ctf/master/images/JuiceShopCTF_Logo_100px.png" alt="Juice Shop CTF Logo" class="header-logo">
+        {% elsif page.title == "Learning" %}
+          <img src="https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuicyBot_MedicalMask.png" alt="Juicy Bot" class="header-logo">
+        {% else %}
+          <img src="https://raw.githubusercontent.com/juice-shop/juice-shop/develop/frontend/src/assets/public/images/JuiceShop_Logo_100px.png" alt="Juice Shop Logo" class="header-logo">
+        {% endif %}
+        <div class="header-titles">
+          <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        </div>
+      </div>
 
-      <nav style="margin-top: 20px;">
+      <nav class="header-nav">
         <a href="{{ '/' | relative_url }}" class="btn">Home</a>
         <a href="{{ '/tab_overview.html' | relative_url }}" class="btn">Overview</a>
         <a href="{{ '/tab_challenges.html' | relative_url }}" class="btn">Challenges</a>
@@ -71,7 +82,7 @@
       </nav>
     </header>
 
-    <div class="page-layout" style="max-width: 64rem; margin: 0 auto;">
+    <div class="page-layout" style="margin: 0 auto;">
       <main id="content" class="main-content" role="main">
         {{ content }}
 
