@@ -7,6 +7,10 @@ order: 1
 tags: juiceshop
 ---
 
+<div style="border: 2px solid #ff2d55; box-shadow: 0 0 15px rgba(255, 45, 85, 0.6); padding: 10px; text-align: center; margin-bottom: 20px;">
+  For the latest information about OWASP Juice Shop visit <a href="https://owasp-juice.shop">https://owasp-juice.shop</a>!
+</div>
+
 ## Main Selling Points
 
 * **Free and Open source**: Licensed under the
