@@ -6,6 +6,9 @@ on:
     paths: 
       - '_data/ow_attributions.json'
 
+permissions:
+  contents: read
+
 jobs:
   slackNotification:
     name: Slack Notification
