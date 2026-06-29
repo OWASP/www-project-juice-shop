@@ -36,7 +36,7 @@ jobs:
         cd _data
         rm ow_attributions.json
         wget https://raw.githubusercontent.com/OWASP/www-project-juice-shop/${{ github.ref_name }}/_data/ow_attributions.json
-    - uses: stefanzweifel/git-auto-commit-action@8621497c8c39c72f3e2a999a26b4ca1b5058a842 #v5.0.1
+    - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d #v7.2.0
       with:
         commit_message: "Auto-update ow_attributions.json from ${{ github.sha }}"
         branch: master
