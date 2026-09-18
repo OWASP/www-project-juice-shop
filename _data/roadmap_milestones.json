@@ -1,3 +1,5 @@
 [
-  "Gradually enhance the codebase and pay back <a href='https://qlty.sh/gh/juice-shop/projects/juice-shop' target='_blank'>accumulated technical debt</a>",
+  "Migrate the entire frontend to <a href='https://angular.dev/guide/signals' target='_blank'>Angular Signals</a><sup>(<a href='https://github.com/juice-shop/juice-shop/issues/2653' target='_blank'>#2653</a>)</sup>",
+  "Add missing hints and step-by-step solutions for newest challenges to <a href='https://pwning.owasp-juice.shop' target='_blank'>the official companion guide</a>",
+  "Gradually enhance the codebase and pay back <a href='https://qlty.sh/gh/juice-shop/projects/juice-shop' target='_blank'>accumulated technical debt</a>"
 ]
